@@ -39,12 +39,21 @@ def main() -> None:
     print(f"[4/5] Technical signals", file=sys.stderr)
     scfg = cfg["signals"]
     results = [technicals.analyze(sym, df, scfg) for sym, df in candles.items()]
+    # A candidate needs confluence: enough conditions AND at least one
+    # timing event, so trend state alone never qualifies a stock.
     buys = sorted(
-        (r for r in results if r["buy_score"] >= scfg["min_score_buy"] and r["sell_score"] == 0),
+        (
+            r for r in results
+            if r["buy_score"] >= scfg["min_score_buy"]
+            and r["buy_has_event"] and r["sell_score"] == 0
+        ),
         key=lambda r: r["buy_score"], reverse=True,
     )[: cfg["report"]["top_n"]]
     sells = sorted(
-        (r for r in results if r["sell_score"] >= scfg["min_score_sell"]),
+        (
+            r for r in results
+            if r["sell_score"] >= scfg["min_score_sell"] and r["sell_has_event"]
+        ),
         key=lambda r: r["sell_score"], reverse=True,
     )[: cfg["report"]["top_n"]]
 

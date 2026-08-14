@@ -1,5 +1,7 @@
 # MarketMind — daily Indian market research pipeline
 
+**Live report: https://ba-amit.github.io/marketmind/** · [archive](https://ba-amit.github.io/marketmind/archive.html)
+
 Every morning, one command produces a research report for NSE stocks:
 index snapshot, FII/DII flows, pre-open movers, rule-based **buy/sell
 signals** (technicals + fundamentals hygiene), bulk deals, and headlines.
@@ -13,6 +15,16 @@ uv run python -m mm.run --no-fundamentals   # faster, skips yfinance info calls
 ```
 
 Output: `reports/YYYY-MM-DD.md`.
+
+## Hosting
+
+`.github/workflows/morning-report.yml` runs the pipeline every weekday at
+03:00 UTC (08:30 IST), writes `docs/index.md` plus a dated copy under
+`docs/archive/`, and commits — GitHub Pages serves `main` `/docs`.
+
+NSE's JSON endpoints sometimes block cloud runner IPs; those sections drop
+out of the hosted report while candles, signals, and news still render.
+Run locally for the full picture when that happens.
 
 ## Data sources (all free)
 

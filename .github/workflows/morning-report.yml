@@ -2,7 +2,7 @@ name: Morning report
 
 on:
   schedule:
-    - cron: "0 3 * * 1-5" # 08:30 IST, Mon-Fri
+    - cron: "40 3 * * 1-5" # 09:10 IST, after NSE's 09:00-09:08 pre-open session
   workflow_dispatch:
 
 permissions:

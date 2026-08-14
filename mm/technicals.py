@@ -103,46 +103,53 @@ def analyze(sym: str, df: pd.DataFrame, cfg: dict) -> dict:
     crossed_up_20 = close.iloc[-2] <= sma20.iloc[-2] and last > float(sma20.iloc[-1])
     crossed_dn_20 = close.iloc[-2] >= sma20.iloc[-2] and last < float(sma20.iloc[-1])
 
-    buy, sell = [], []
+    # State = where the stock stands; event = what happened on the last bar.
+    # Kept apart so a stock can't qualify on trend alone counted twice.
+    buy_state, buy_event = [], []
     if uptrend:
-        buy.append("Uptrend (above rising 50/200 SMA)")
+        buy_state.append("Uptrend (above rising 50/200 SMA)")
+    if near_high:
+        buy_state.append("Within 5% of 52w high")
     if uptrend and 35 <= r_now <= 50:
-        buy.append(f"Pullback in uptrend (RSI {r_now:.0f})")
+        buy_event.append(f"Pullback in uptrend (RSI {r_now:.0f})")
     if crossed_up_20:
-        buy.append("Closed back above 20 SMA")
-    if downtrend:
-        sell.append("Downtrend (below falling 50/200 SMA)")
-    if crossed_dn_20:
-        sell.append("Closed below 20 SMA")
+        buy_event.append("Closed back above 20 SMA")
     if r_now < cfg["rsi_oversold"]:
-        buy.append(f"RSI oversold ({r_now:.0f})")
+        buy_event.append(f"RSI oversold ({r_now:.0f})")
     if r_prev < cfg["rsi_oversold"] <= r_now:
-        buy.append("RSI recovering from oversold")
+        buy_event.append("RSI recovering from oversold")
     if macd_cross_up:
-        buy.append("MACD bullish crossover")
+        buy_event.append("MACD bullish crossover")
     if golden_cross:
-        buy.append("Golden cross (50/200 SMA)")
-    if near_high and above50 and above200:
-        buy.append("Momentum: near 52w high, above 50/200 SMA")
+        buy_event.append("Golden cross (50/200 SMA)")
     if vol_spike and chg_pct > 0:
-        buy.append(f"Volume spike on up day ({chg_pct:+.1f}%)")
+        buy_event.append(f"Volume spike on up day ({chg_pct:+.1f}%)")
     if pattern in BULLISH_PATTERNS:
-        buy.append(f"Bullish candle: {pattern}")
+        buy_event.append(f"Bullish candle: {pattern}")
 
+    sell_state, sell_event = [], []
+    if downtrend:
+        sell_state.append("Downtrend (below falling 50/200 SMA)")
+    if near_low:
+        sell_state.append("Within 5% of 52w low")
+    if crossed_dn_20:
+        sell_event.append("Closed below 20 SMA")
     if r_now > cfg["rsi_overbought"]:
-        sell.append(f"RSI overbought ({r_now:.0f})")
+        sell_event.append(f"RSI overbought ({r_now:.0f})")
     if macd_cross_dn:
-        sell.append("MACD bearish crossover")
+        sell_event.append("MACD bearish crossover")
     if death_cross:
-        sell.append("Death cross (50/200 SMA)")
-    if near_low and not above50:
-        sell.append("Weakness: near 52w low, below 50 SMA")
+        sell_event.append("Death cross (50/200 SMA)")
     if vol_spike and chg_pct < 0:
-        sell.append(f"Volume spike on down day ({chg_pct:+.1f}%)")
+        sell_event.append(f"Volume spike on down day ({chg_pct:+.1f}%)")
     if pattern in BEARISH_PATTERNS:
-        sell.append(f"Bearish candle: {pattern}")
+        sell_event.append(f"Bearish candle: {pattern}")
+
+    buy, sell = buy_state + buy_event, sell_state + sell_event
 
     return {
+        "buy_has_event": bool(buy_event),
+        "sell_has_event": bool(sell_event),
         "symbol": sym,
         "close": last,
         "chg_pct": chg_pct,

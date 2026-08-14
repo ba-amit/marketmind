@@ -30,7 +30,7 @@ def render(ctx: dict) -> str:
     parts = [f"# Morning Market Report — {today}\n"]
 
     if ctx["indices"]:
-        parts.append("## Index snapshot (prev close)\n")
+        parts.append("## Index snapshot (NSE, at run time)\n")
         parts.append("| Index | Level | Chg% |\n|---|---:|---:|")
         for i in ctx["indices"]:
             parts.append(f"| {i['index']} | {_fmt(i['last'], ',.1f')} | {_fmt(i['pct'], '+.2f')} |")

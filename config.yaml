@@ -1,0 +1,34 @@
+# MarketMind config
+universe: nifty100          # nifty50 | nifty100 | nifty200 | nifty500
+history_days: 400           # calendar days of daily candles to fetch
+
+news:
+  max_headlines: 12
+  feeds:
+    - name: Zerodha Pulse
+      url: https://pulse.zerodha.com/feed.php
+    - name: Moneycontrol Market Reports
+      url: https://www.moneycontrol.com/rss/marketreports.xml
+    - name: Moneycontrol Buzzing Stocks
+      url: https://www.moneycontrol.com/rss/buzzingstocks.xml
+    - name: ET Markets
+      url: https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+
+signals:
+  rsi_period: 14
+  rsi_oversold: 30
+  rsi_overbought: 70
+  volume_spike_mult: 2.0    # today vol > mult * 20d avg
+  near_high_pct: 5          # within % of 52w high counts as momentum
+  min_score_buy: 2          # composite score thresholds
+  min_score_sell: 2
+
+fundamentals:
+  enabled: true             # fetched only for shortlisted stocks (yfinance)
+  max_pe: 60                # hygiene flags, not hard filters
+  max_debt_to_equity: 150   # yfinance reports as % (150 = 1.5x)
+  min_roe: 0.10
+
+report:
+  out_dir: reports
+  top_n: 10                 # max buy/sell candidates shown

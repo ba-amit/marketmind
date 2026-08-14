@@ -1,0 +1,22 @@
+[project]
+name = "marketmind"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Amit Dugar", email = "amit@buyerassist.io" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "feedparser>=6.0.14",
+    "pandas>=3.0.5",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+    "yfinance>=1.6.0",
+]
+
+[project.scripts]
+marketmind = "marketmind:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"

@@ -8,17 +8,17 @@ title: Morning Market Report
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 24,361.9 | -0.14 |
-| NIFTY BANK | 57,589.8 | -0.08 |
-| NIFTY MIDCAP 100 | 64,114.6 | -0.01 |
-| NIFTY SMALLCAP 100 | 19,874.2 | +0.00 |
-| NIFTY AUTO | 29,278.0 | -0.39 |
-| NIFTY FMCG | 48,809.7 | -0.06 |
-| NIFTY IT | 31,419.8 | -0.11 |
-| NIFTY METAL | 12,953.8 | -0.61 |
-| NIFTY PHARMA | 26,659.7 | -0.10 |
-| NIFTY REALTY | 899.7 | +0.14 |
-| NIFTY ENERGY | 38,659.4 | -0.08 |
+| NIFTY 50 | 24,354.8 | -0.17 |
+| NIFTY BANK | 57,459.1 | -0.31 |
+| NIFTY MIDCAP 100 | 63,766.2 | -0.55 |
+| NIFTY SMALLCAP 100 | 19,742.3 | -0.67 |
+| NIFTY AUTO | 29,232.3 | -0.54 |
+| NIFTY FMCG | 48,561.1 | -0.57 |
+| NIFTY IT | 31,348.2 | -0.34 |
+| NIFTY METAL | 12,954.8 | -0.61 |
+| NIFTY PHARMA | 26,408.2 | -1.04 |
+| NIFTY REALTY | 893.8 | -0.51 |
+| NIFTY ENERGY | 38,513.6 | -0.46 |
 
 ## FII / DII flows (₹ crore)
 
@@ -37,28 +37,25 @@ title: Morning Market Report
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **ICICIBANK** | 1406.8 | +0.0 | 47 | 3 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 47); Momentum: near 52w high, above 50/200 SMA | clean |
-| **BAJAJ-AUTO** | 11661.0 | +0.0 | 66 | 2 | Uptrend (above rising 50/200 SMA); Momentum: near 52w high, above 50/200 SMA | clean |
-| **CHOLAFIN** | 1927.9 | +0.0 | 63 | 2 | Uptrend (above rising 50/200 SMA); Momentum: near 52w high, above 50/200 SMA | D/E high (7.0x) |
-| **DLF** | 664.0 | +0.0 | 56 | 2 | Uptrend (above rising 50/200 SMA); Golden cross (50/200 SMA) | clean |
-| **GRASIM** | 3257.0 | +0.0 | 56 | 2 | Uptrend (above rising 50/200 SMA); Momentum: near 52w high, above 50/200 SMA | clean |
-| **INDHOTEL** | 721.8 | +0.0 | 45 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 45) | clean |
-| **IOC** | 141.5 | +0.9 | 53 | 2 | Closed back above 20 SMA; MACD bullish crossover | clean |
-| **PIDILITIND** | 1696.1 | +0.0 | 66 | 2 | Uptrend (above rising 50/200 SMA); Momentum: near 52w high, above 50/200 SMA | PE high (65) |
-| **SHRIRAMFIN** | 1132.3 | +0.0 | 63 | 2 | Uptrend (above rising 50/200 SMA); Momentum: near 52w high, above 50/200 SMA | D/E high (2.8x) |
-| **TATACAP** | 363.8 | +0.0 | 54 | 2 | Uptrend (above rising 50/200 SMA); Momentum: near 52w high, above 50/200 SMA | D/E high (5.0x) |
+| **ICICIBANK** | 1406.8 | -1.7 | 47 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Pullback in uptrend (RSI 47) | clean |
+| **LODHA** | 1232.3 | +1.9 | 60 | 3 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA; Bullish candle: bullish-engulfing | clean |
+| **SUNPHARMA** | 1932.0 | -0.6 | 48 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Pullback in uptrend (RSI 48) | clean |
+| **TORNTPHARM** | 4914.5 | +0.4 | 51 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Bullish candle: hammer | PE high (77) |
+| **APOLLOHOSP** | 8590.0 | +0.0 | 40 | 2 | Within 5% of 52w high; Volume spike on up day (+0.0%) | PE high (61) |
+| **DLF** | 664.0 | +0.3 | 56 | 2 | Uptrend (above rising 50/200 SMA); Golden cross (50/200 SMA) | clean |
+| **LT** | 4070.7 | +1.3 | 60 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: bullish-engulfing | clean |
+| **PFC** | 379.0 | +0.7 | 29 | 2 | RSI oversold (29); Bullish candle: hammer | D/E high (5.4x) |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **GODREJCP** | 936.9 | +0.0 | 32 | 2 | Downtrend (below falling 50/200 SMA); Weakness: near 52w low, below 50 SMA | clean |
-| **HDFCBANK** | 725.0 | +0.0 | 32 | 2 | Downtrend (below falling 50/200 SMA); Weakness: near 52w low, below 50 SMA | clean |
-| **HDFCLIFE** | 538.0 | +0.0 | 39 | 2 | Downtrend (below falling 50/200 SMA); Weakness: near 52w low, below 50 SMA | clean |
-| **HINDUNILVR** | 2092.0 | +0.0 | 47 | 2 | Downtrend (below falling 50/200 SMA); Weakness: near 52w low, below 50 SMA | clean |
-| **ITC** | 278.5 | +0.0 | 41 | 2 | Downtrend (below falling 50/200 SMA); Weakness: near 52w low, below 50 SMA | clean |
-| **IRFC** | 88.3 | +0.0 | 44 | 2 | Downtrend (below falling 50/200 SMA); Weakness: near 52w low, below 50 SMA | D/E high (7.7x) |
-| **POWERGRID** | 266.6 | +0.0 | 30 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | D/E high (1.5x) |
+| **BOSCHLTD** | 46750.0 | +0.6 | 78 | 2 | RSI overbought (78); Bearish candle: shooting-star | clean |
+| **DIVISLAB** | 8500.0 | -1.2 | 74 | 2 | RSI overbought (74); Bearish candle: hanging-man | PE high (87) |
+| **POWERGRID** | 266.6 | -1.1 | 30 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | D/E high (1.5x) |
+| **SHREECEM** | 25245.0 | -1.3 | 37 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: bearish-engulfing | clean |
+| **TMCV** | 474.8 | +3.9 | 72 | 2 | RSI overbought (72); Bearish candle: shooting-star | clean |
+| **UNITDSPR** | 1515.0 | -1.3 | 63 | 2 | MACD bearish crossover; Bearish candle: shooting-star | PE high (65) |
 
 ## Bulk deals (latest)
 
@@ -77,12 +74,12 @@ title: Morning Market Report
 
 ## Headlines
 
-- [LEAP India shares to list today. Check GMP ahead of debut](https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/133227372.cms) — _Zerodha Pulse_
-- [Technocraft Ventures shares to list today. GMP signals 17% listing gains ahead of debut](https://economictimes.indiatimes.com/markets/stocks/news/technocraft-ventures-shares-to-list-today-gmp-signals-17-listing-gains-ahead-of-debut/articleshow/133227330.cms) — _Zerodha Pulse_
-- [Stock Market LIVE: GIFT Nifty signals negative open; Asia markets mixed; Brent crude near $87](https://www.business-standard.com/markets/news/stock-market-live-august-14-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-q1-result-today-ipo-listing-126081400074_1.html) — _Zerodha Pulse_
-- [Stocks to buy in 2026 for long term: BLS International, NBCC India among 5 stocks that could give 10-60% return](https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-bls-international-nbcc-india-among-5-stocks-that-could-give-10-60-return/slideshow/133227445.cms) — _Zerodha Pulse_
-- [Five Stocks To Buy Today: Eicher Motors, Poonawalla Fincorp, Meesho, And More | August 14](https://www.ndtvprofit.com/markets/five-stocks-to-buy-august-14-poonawalla-fincorp-carborundum-universal-meesho-and-grse-11907789#publisher=newsstand) — _Zerodha Pulse_
-- [Oil Price Today (August 14): Crude oil dips below $88 despite Trump’s threat to blockade Iran indefinitely. What are experts saying?](https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-14-crude-oil-dips-below-88-despite-trumps-threat-to-blockade-iran-indefinitely-what-are-experts-saying/articleshow/133227242.cms) — _Zerodha Pulse_
+- [Stock Market LIVE: Sensex off 300 pts from day's low; Nifty Consumer Durables rises 1%](https://www.business-standard.com/markets/news/stock-market-live-august-14-nse-bse-sensex-today-nifty50-gift-nifty-us-iran-tension-brent-crude-q1-result-today-ipo-listing-126081400074_1.html) — _Zerodha Pulse_
+- [Global Market | Bank of Japan could raise rates in September, eye faster hikes: Reports](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-could-raise-rates-in-september-eye-faster-hikes-reports/articleshow/133235665.cms) — _Zerodha Pulse_
+- [Global Market: European shares steady near record highs as Iran war, Eurozone data in focus](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms) — _Zerodha Pulse_
+- [S&amp;P assigns investment-grade rating to IDFC FIRST Bank. Can it lift the stock?](https://economictimes.indiatimes.com/markets/stocks/news/sp-assigns-investment-grade-rating-to-idfc-first-bank-can-it-lift-the-stock/articleshow/133234206.cms) — _Zerodha Pulse_
+- [Aurum PropTech Q1 Result: Net Profit At Rs 3.6 Crore; Revenue Jumps 82% YoY](https://www.ndtvprofit.com/markets/aurum-proptech-q1-result-net-profit-at-rs-3-6-crore-revenue-jumps-82-percent-yoy-11909274#publisher=newsstand) — _Zerodha Pulse_
+- [Bharat Dynamics Q1 Results: Net profit soars 6x to Rs 119 crore, revenue surges 131% YoY](https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-q1-results-net-profit-soars-6x-to-rs-119-crore-revenue-surges-131-yoy/articleshow/133233995.cms) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

@@ -4,6 +4,7 @@ title: Archive
 
 # Report archive
 
+- [2026-09-02](archive/2026-09-02.html)
 - [2026-09-01](archive/2026-09-01.html)
 - [2026-08-31](archive/2026-08-31.html)
 - [2026-08-28](archive/2026-08-28.html)

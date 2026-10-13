@@ -2,36 +2,36 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Monday, 12 October 2026
+# Morning Market Report — Tuesday, 13 October 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 22,363.3 | -0.70 |
-| NIFTY BANK | 54,918.0 | -0.61 |
-| NIFTY MIDCAP 100 | 58,834.6 | +0.08 |
-| NIFTY SMALLCAP 100 | 19,425.8 | +1.42 |
-| NIFTY AUTO | 25,084.4 | +0.90 |
-| NIFTY FMCG | 44,113.4 | -1.67 |
-| NIFTY IT | 28,349.6 | -0.79 |
-| NIFTY METAL | 11,951.1 | -0.41 |
-| NIFTY PHARMA | 26,078.8 | +0.45 |
-| NIFTY REALTY | 810.0 | +0.76 |
-| NIFTY ENERGY | 35,857.2 | +0.20 |
+| NIFTY 50 | 22,722.0 | +1.60 |
+| NIFTY BANK | 55,481.1 | +1.03 |
+| NIFTY MIDCAP 100 | 59,459.2 | +1.06 |
+| NIFTY SMALLCAP 100 | 19,447.4 | +0.11 |
+| NIFTY AUTO | 25,391.8 | +1.23 |
+| NIFTY FMCG | 44,731.2 | +1.40 |
+| NIFTY IT | 29,830.1 | +5.22 |
+| NIFTY METAL | 12,088.2 | +1.15 |
+| NIFTY PHARMA | 26,075.0 | -0.01 |
+| NIFTY REALTY | 830.0 | +2.46 |
+| NIFTY ENERGY | 35,975.9 | +0.33 |
 
 ## FII / DII flows (₹ crore)
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 15626.53 | 10883.27 | **4743.26** |
-| FII/FPI | 10373.99 | 13942.89 | **-3568.9** |
+| DII | 15506.73 | 12461.71 | **3045.02** |
+| FII/FPI | 12583.21 | 14291.69 | **-1708.48** |
 
 ## Pre-open movers
 
-**Gainers:** TERAI (+20.0%), AMAL (+11.2%), MCLEODRUSS (+10.0%), AGRITECH (+9.7%), BNAGROCHEM (+9.7%), KRIDHANINF (+9.5%), 63MOONS (+9.4%), SUNDARAM (+8.7%)
+**Gainers:** ARTNIRMAN (+17.2%), PHOENXINTL (+15.1%), KRIDHANINF (+10.0%), MCLEODRUSS (+9.6%), SHRINGARMS (+8.9%), AMAL (+7.8%), DHARAN (+7.7%), DELAPLEX (+7.0%)
 
-**Losers:** NATCO-RE (-14.7%), CKKRETAIL (-14.5%), IPRINGLTD (-14.5%), KEN (-10.5%), AMCL (-9.8%), SLONE (-5.3%), VNL (-5.0%), SPELS (-5.0%)
+**Losers:** SGL (-5.1%), VNL (-5.0%), SHAHINVEST (-5.0%), TRIVENIPT (-5.0%), SRIT (-5.0%), CURIS (-5.0%), SHEKHAWATI (-5.0%), SRIKPRIND (-4.9%)
 
 ## Buy signals
 
@@ -39,7 +39,7 @@ title: Morning Market Report
 |---|---:|---:|---:|---:|---|---|
 | **APOLLOHOSP** | 8027.5 | +4.7 | 37 | 3 | RSI recovering from oversold; Volume spike on up day (+4.7%); Bullish candle: hammer | clean |
 | **ADANIPORTS** | 1761.0 | +3.1 | 51 | 2 | Uptrend (above rising 50/200 SMA); Volume spike on up day (+3.1%) | clean |
-| **ETERNAL** | 323.5 | +1.4 | 49 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 49) | PE high (687) |
+| **ETERNAL** | 323.5 | +1.4 | 49 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 49) | PE high (682) |
 | **HYUNDAI** | 1940.0 | +1.3 | 34 | 2 | RSI recovering from oversold; Bullish candle: hammer | clean |
 | **PNB** | 117.0 | +1.5 | 56 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | clean |
 | **TVSMOTOR** | 3866.8 | +0.7 | 31 | 2 | RSI recovering from oversold; Bullish candle: hammer | D/E high (3.1x) |
@@ -56,25 +56,25 @@ title: Morning Market Report
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| ACEVECTOR | JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED | BUY | 2362529 | 30.45 |
-| ACEVECTOR | QE SECURITIES LLP | BUY | 2527849 | 30.28 |
-| ACEVECTOR | MATHISYS QUANTCAP LLP | BUY | 3418489 | 30.42 |
-| ADROITIND | PRIJAL TRADEFIN LLP | BUY | 268700 | 201.95 |
-| AQYLON | MOHAMED IRFAN MOHAMED LATIF SHAIKH | BUY | 2473659 | 15.75 |
-| ARFIN | BULLPULSE MARKETEDGE PRIVATE LIMITED | BUY | 919253 | 109.62 |
-| ARIS | VAIBHAV RAJENDRA DOSHI | BUY | 499739 | 142.1 |
-| AWFIS | KRITAGYATA TRUST | BUY | 1150000 | 244.97 |
-| BAGDIGITAL | ACME CAPITAL MARKET LIMITED | BUY | 268800 | 114.66 |
-| DEEPA | QE SECURITIES LLP | BUY | 590496 | 239.78 |
+| ADROITIND | SETU SECURITIES PVT LTD | BUY | 327457 | 192.77 |
+| ADROITIND | PRIJAL TRADEFIN LLP | BUY | 10162 | 196.24 |
+| COMSYN | ARIHANT CAPITAL MARKETS LIMITED | BUY | 332356 | 267.28 |
+| COMSYN | GOLDEN GOENKA MANAGEMENT CONSULTANCY SERVICES LLP | BUY | 228711 | 280 |
+| DEEPA | QE SECURITIES LLP | BUY | 595086 | 253.03 |
+| EMPOWER | HARPREET SINGH GREWAL | BUY | 4399150 | 1.95 |
+| EMPOWER | MOONLIGHT MULTITRADE LLP | BUY | 7700000 | 1.94 |
+| EMPOWER | SUBHAWATI RAI | BUY | 5963648 | 1.95 |
+| EMPOWER | SHARE INDIA SECURITIES LIMITED | BUY | 5940730 | 1.95 |
+| HIMALAYAN | GRIP ASSETS MANAGEMENT PRIVATE LIMITED | BUY | 174000 | 84.5 |
 
 ## Headlines
 
-- [Robert E Hall, Michael Woodford win Nobel Prize in Economics 2026](https://www.business-standard.com/economy/news/robert-e-hall-michael-woodford-win-nobel-prize-in-economics-2026-126101200573_1.html) — _Zerodha Pulse_
-- [Michael Burry screams big market crash ahead! Why legendary investor Peter Lynch ignored such predictions](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-burry-screams-big-market-crash-ahead-why-legendary-investor-peter-lynch-ignored-such-predictions/articleshow/134889767.cms) — _Zerodha Pulse_
-- [Coal stocks at thermal plants hold above 18 MT as supply deficit narrows](https://www.thehindu.com/business/Economy/coal-stocks-at-thermal-plants-hold-above-18-mt-as-supply-deficit-narrows/article71574429.ece) — _Zerodha Pulse_
-- [Americans Robert E. Hall, Michael Woodford win Economics Nobel 2026](https://www.thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece) — _Zerodha Pulse_
-- [Tata Power Renewable doubles capacity addition to 419 MW in Q2 FY27](https://www.business-standard.com/companies/news/tata-power-renewable-doubles-capacity-addition-to-419-mw-in-q2-fy27-126101200567_1.html) — _Zerodha Pulse_
-- [Stock Market Close: Sensex sheds 548 pts, Nifty ends at 22,363; FMCG, PSU Bank indices underperform](https://www.business-standard.com/markets/news/stock-market-live-october-12-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-126101200057_1.html) — _Zerodha Pulse_
+- [Bitcoin trades near $83,000 as macro headwinds and US political uncertainty weigh on sentiment](https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-83000-as-macro-headwinds-and-us-political-uncertainty-weigh-on-sentiment/articleshow/134915379.cms) — _Zerodha Pulse_
+- [Global Market: Eurozone bond yields fall as tech stock selloff boosts safe-haven demand](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-stock-selloff-boosts-safe-haven-demand/articleshow/134915060.cms) — _Zerodha Pulse_
+- [China Is About To Get A 'High-Income' Economy Tag. But Beijing Doesn't Want It](https://www.ndtvprofit.com/economy/china-is-about-to-get-a-high-income-economy-tag-but-beijing-doesnt-want-it-12178604#publisher=newsstand) — _Zerodha Pulse_
+- [Rupee outpaces Asian peers on fresh FX curbs, RBI intervention](https://economictimes.indiatimes.com/markets/forex/rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention/articleshow/134915016.cms) — _Zerodha Pulse_
+- [Shah Rukh Khan Starts Filming The Final Leg Of King In Mumbai Ahead Of December Release](https://www.ndtvprofit.com/lifestyle/shah-rukh-khan-starts-filming-the-final-leg-of-king-in-mumbai-ahead-of-december-release-12177057#publisher=newsstand) — _Zerodha Pulse_
+- [Is Your Retirement Corpus Enough? Study Flags A Long-Term Savings Gap Among Women](https://www.ndtvprofit.com/personal-finance/is-your-retirement-corpus-enough-study-flags-a-long-term-savings-gap-among-women-12176858#publisher=newsstand) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

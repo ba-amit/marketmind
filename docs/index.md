@@ -2,79 +2,83 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Tuesday, 13 October 2026
+# Morning Market Report — Wednesday, 14 October 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 22,722.0 | +1.60 |
-| NIFTY BANK | 55,481.1 | +1.03 |
-| NIFTY MIDCAP 100 | 59,459.2 | +1.06 |
-| NIFTY SMALLCAP 100 | 19,447.4 | +0.11 |
-| NIFTY AUTO | 25,391.8 | +1.23 |
-| NIFTY FMCG | 44,731.2 | +1.40 |
-| NIFTY IT | 29,830.1 | +5.22 |
-| NIFTY METAL | 12,088.2 | +1.15 |
-| NIFTY PHARMA | 26,075.0 | -0.01 |
-| NIFTY REALTY | 830.0 | +2.46 |
-| NIFTY ENERGY | 35,975.9 | +0.33 |
+| NIFTY 50 | 22,627.6 | -0.42 |
+| NIFTY BANK | 55,303.2 | -0.32 |
+| NIFTY MIDCAP 100 | 59,461.5 | +0.00 |
+| NIFTY SMALLCAP 100 | 19,433.8 | -0.07 |
+| NIFTY AUTO | 25,207.5 | -0.73 |
+| NIFTY FMCG | 45,209.8 | +1.07 |
+| NIFTY IT | 30,253.0 | +1.42 |
+| NIFTY METAL | 11,999.6 | -0.73 |
+| NIFTY PHARMA | 25,665.2 | -1.57 |
+| NIFTY REALTY | 825.4 | -0.55 |
+| NIFTY ENERGY | 36,479.8 | +1.40 |
 
 ## FII / DII flows (₹ crore)
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 15506.73 | 12461.71 | **3045.02** |
-| FII/FPI | 12583.21 | 14291.69 | **-1708.48** |
+| DII | 16232.97 | 13793.73 | **2439.24** |
+| FII/FPI | 13465.39 | 14770.52 | **-1305.13** |
 
 ## Pre-open movers
 
-**Gainers:** ARTNIRMAN (+17.2%), PHOENXINTL (+15.1%), KRIDHANINF (+10.0%), MCLEODRUSS (+9.6%), SHRINGARMS (+8.9%), AMAL (+7.8%), DHARAN (+7.7%), DELAPLEX (+7.0%)
+**Gainers:** SEJALLTD (+18.1%), GUJRAFFIA (+13.2%), PBMPOLY (+12.1%), TARIL (+9.5%), INFOMEDIA (+9.3%), KKJEWELS (+7.9%), DHARAN (+7.7%), ARTNIRMAN (+7.5%)
 
-**Losers:** SGL (-5.1%), VNL (-5.0%), SHAHINVEST (-5.0%), TRIVENIPT (-5.0%), SRIT (-5.0%), CURIS (-5.0%), SHEKHAWATI (-5.0%), SRIKPRIND (-4.9%)
+**Losers:** SVLL (-9.4%), SANWARIA (-5.3%), SRIT (-5.0%), VNL (-5.0%), SHAHINVEST (-5.0%), AUGMONT (-5.0%), WELINV (-5.0%), TRIVENIPT (-5.0%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **APOLLOHOSP** | 8027.5 | +4.7 | 37 | 3 | RSI recovering from oversold; Volume spike on up day (+4.7%); Bullish candle: hammer | clean |
-| **ADANIPORTS** | 1761.0 | +3.1 | 51 | 2 | Uptrend (above rising 50/200 SMA); Volume spike on up day (+3.1%) | clean |
-| **ETERNAL** | 323.5 | +1.4 | 49 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 49) | PE high (682) |
-| **HYUNDAI** | 1940.0 | +1.3 | 34 | 2 | RSI recovering from oversold; Bullish candle: hammer | clean |
-| **PNB** | 117.0 | +1.5 | 56 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | clean |
-| **TVSMOTOR** | 3866.8 | +0.7 | 31 | 2 | RSI recovering from oversold; Bullish candle: hammer | D/E high (3.1x) |
+| **HCLTECH** | 1326.0 | +8.4 | 63 | 3 | Closed back above 20 SMA; MACD bullish crossover; Volume spike on up day (+8.4%) | clean |
+| **HAL** | 4869.0 | +2.3 | 56 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; MACD bullish crossover | clean |
+| **SHRIRAMFIN** | 988.0 | +6.3 | 49 | 3 | Closed back above 20 SMA; MACD bullish crossover; Bullish candle: bullish-engulfing | D/E high (2.8x) |
+| **BAJFINANCE** | 982.8 | +2.7 | 46 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | D/E high (3.1x) |
+| **BAJAJFINSV** | 1755.7 | +2.1 | 40 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | D/E high (2.6x) |
+| **DLF** | 664.8 | +2.3 | 52 | 2 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA | clean |
+| **PIDILITIND** | 1497.6 | +1.3 | 44 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | clean |
+| **TITAN** | 4487.0 | +2.0 | 37 | 2 | RSI recovering from oversold; Bullish candle: bullish-engulfing | PE high (68), D/E high (2.0x) |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **BANKBARODA** | 235.8 | +0.8 | 51 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: shooting-star | clean |
-| **MAXHEALTH** | 883.8 | +1.2 | 28 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Death cross (50/200 SMA) | clean |
-| **SBILIFE** | 1684.6 | +0.1 | 42 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: shooting-star | PE high (65) |
+| **VEDL** | 251.3 | -3.2 | 45 | 4 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Closed below 20 SMA; Volume spike on down day (-3.2%) | clean |
+| **MUTHOOTFIN** | 2626.0 | -0.3 | 36 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | D/E high (3.9x) |
+| **TATACONSUM** | 960.0 | +0.1 | 40 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: shooting-star | clean |
+| **POWERINDIA** | 30250.0 | -3.3 | 41 | 2 | Closed below 20 SMA; Bearish candle: hanging-man | PE high (117) |
+| **LT** | 3675.0 | +1.3 | 40 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
 
 ## Bulk deals (latest)
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| ADROITIND | SETU SECURITIES PVT LTD | BUY | 327457 | 192.77 |
-| ADROITIND | PRIJAL TRADEFIN LLP | BUY | 10162 | 196.24 |
-| COMSYN | ARIHANT CAPITAL MARKETS LIMITED | BUY | 332356 | 267.28 |
-| COMSYN | GOLDEN GOENKA MANAGEMENT CONSULTANCY SERVICES LLP | BUY | 228711 | 280 |
-| DEEPA | QE SECURITIES LLP | BUY | 595086 | 253.03 |
-| EMPOWER | HARPREET SINGH GREWAL | BUY | 4399150 | 1.95 |
-| EMPOWER | MOONLIGHT MULTITRADE LLP | BUY | 7700000 | 1.94 |
-| EMPOWER | SUBHAWATI RAI | BUY | 5963648 | 1.95 |
-| EMPOWER | SHARE INDIA SECURITIES LIMITED | BUY | 5940730 | 1.95 |
-| HIMALAYAN | GRIP ASSETS MANAGEMENT PRIVATE LIMITED | BUY | 174000 | 84.5 |
+| ADVANCE | QE SECURITIES LLP | BUY | 494508 | 144.21 |
+| ADVANCE | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 503862 | 143.7 |
+| ADVANCE | MICROCURVES TRADING PRIVATE LIMITED | BUY | 403104 | 143.57 |
+| ADVANCE | J4S FINANCIAL SOLUTIONS LLP | BUY | 503770 | 143.9 |
+| ADVANCE | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 748140 | 143.02 |
+| AMBICAAGAR | ORION STOCKS LTD | BUY | 75495 | 23.99 |
+| AMBICAAGAR | IRAGE BROKING SERVICES LLP | BUY | 100181 | 24.3 |
+| AQYLON | ABHISHEK ASHVINBHAI KAMDAR HUF | BUY | 11000000 | 15 |
+| ARFIN | BULLPULSE MARKETEDGE PRIVATE LIMITED | BUY | 938026 | 109.39 |
+| ARFIN | VISTAAR TRADING SERVICE PRIVATE LIMITED | BUY | 1131458 | 108.49 |
 
 ## Headlines
 
-- [Bitcoin trades near $83,000 as macro headwinds and US political uncertainty weigh on sentiment](https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-83000-as-macro-headwinds-and-us-political-uncertainty-weigh-on-sentiment/articleshow/134915379.cms) — _Zerodha Pulse_
-- [Global Market: Eurozone bond yields fall as tech stock selloff boosts safe-haven demand](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-stock-selloff-boosts-safe-haven-demand/articleshow/134915060.cms) — _Zerodha Pulse_
-- [China Is About To Get A 'High-Income' Economy Tag. But Beijing Doesn't Want It](https://www.ndtvprofit.com/economy/china-is-about-to-get-a-high-income-economy-tag-but-beijing-doesnt-want-it-12178604#publisher=newsstand) — _Zerodha Pulse_
-- [Rupee outpaces Asian peers on fresh FX curbs, RBI intervention](https://economictimes.indiatimes.com/markets/forex/rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention/articleshow/134915016.cms) — _Zerodha Pulse_
-- [Shah Rukh Khan Starts Filming The Final Leg Of King In Mumbai Ahead Of December Release](https://www.ndtvprofit.com/lifestyle/shah-rukh-khan-starts-filming-the-final-leg-of-king-in-mumbai-ahead-of-december-release-12177057#publisher=newsstand) — _Zerodha Pulse_
-- [Is Your Retirement Corpus Enough? Study Flags A Long-Term Savings Gap Among Women](https://www.ndtvprofit.com/personal-finance/is-your-retirement-corpus-enough-study-flags-a-long-term-savings-gap-among-women-12176858#publisher=newsstand) — _Zerodha Pulse_
+- [BHEL Q2 Results: Net profit skyrockets 120% YoY to Rs 810 crore; revenue rises 24%](https://economictimes.indiatimes.com/markets/stocks/earnings/bhel-q2-results-net-profit-skyrockets-120-yoy-to-rs-810-crore-revenue-rises-24/articleshow/134936902.cms) — _Zerodha Pulse_
+- [India tightens Mauritius tax treaty, adds test to deny tax-driven benefits](https://www.business-standard.com/finance/news/india-mauritius-tax-treaty-amendment-principal-purpose-test-126101400600_1.html) — _Zerodha Pulse_
+- [Stock Market LIVE: Sensex falls 100 pts, Nifty around 22,650; BHEL shares gain 4% post Q2 result](https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html) — _Zerodha Pulse_
+- [Wholesale inflation hits series high of 11.39% in September on broad rise](https://www.business-standard.com/economy/news/wholesale-inflation-september-wpi-ppi-food-fuel-manufacturing-126101400599_1.html) — _Zerodha Pulse_
+- [ITLA: Better transport economics will depend on more than an apex label](https://www.thehindu.com/business/itla-better-transport-economics-will-depend-on-more-than-an-apex-label/article71582825.ece) — _Zerodha Pulse_
+- [D-Street's proxy AI trade shines in a bleak year for stocks](https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

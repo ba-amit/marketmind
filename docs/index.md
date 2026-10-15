@@ -2,89 +2,90 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Wednesday, 14 October 2026
+# Morning Market Report — Thursday, 15 October 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 22,627.6 | -0.42 |
-| NIFTY BANK | 55,303.2 | -0.32 |
-| NIFTY MIDCAP 100 | 59,461.5 | +0.00 |
-| NIFTY SMALLCAP 100 | 19,433.8 | -0.07 |
-| NIFTY AUTO | 25,207.5 | -0.73 |
-| NIFTY FMCG | 45,209.8 | +1.07 |
-| NIFTY IT | 30,253.0 | +1.42 |
-| NIFTY METAL | 11,999.6 | -0.73 |
-| NIFTY PHARMA | 25,665.2 | -1.57 |
-| NIFTY REALTY | 825.4 | -0.55 |
-| NIFTY ENERGY | 36,479.8 | +1.40 |
+| NIFTY 50 | 23,040.5 | +1.85 |
+| NIFTY BANK | 55,939.2 | +1.13 |
+| NIFTY MIDCAP 100 | 59,418.4 | +0.02 |
+| NIFTY SMALLCAP 100 | 19,184.0 | -1.04 |
+| NIFTY AUTO | 25,616.7 | +1.83 |
+| NIFTY FMCG | 44,991.6 | -0.62 |
+| NIFTY IT | 30,801.5 | +2.09 |
+| NIFTY METAL | 12,051.4 | +0.37 |
+| NIFTY PHARMA | 25,906.1 | +0.66 |
+| NIFTY REALTY | 831.8 | +1.09 |
+| NIFTY ENERGY | 36,348.0 | -0.43 |
 
 ## FII / DII flows (₹ crore)
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 16232.97 | 13793.73 | **2439.24** |
-| FII/FPI | 13465.39 | 14770.52 | **-1305.13** |
+| DII | 17428.61 | 14758.17 | **2670.44** |
+| FII/FPI | 16381.85 | 18239.29 | **-1857.44** |
 
 ## Pre-open movers
 
-**Gainers:** SEJALLTD (+18.1%), GUJRAFFIA (+13.2%), PBMPOLY (+12.1%), TARIL (+9.5%), INFOMEDIA (+9.3%), KKJEWELS (+7.9%), DHARAN (+7.7%), ARTNIRMAN (+7.5%)
+**Gainers:** PBMPOLY (+14.4%), SEJALLTD (+11.4%), SHIVAMAUTO (+11.2%), MODINATUR (+10.6%), THELEELA (+10.0%), HPIL (+8.1%), BLUECOAST (+8.1%), AVROIND (+7.2%)
 
-**Losers:** SVLL (-9.4%), SANWARIA (-5.3%), SRIT (-5.0%), VNL (-5.0%), SHAHINVEST (-5.0%), AUGMONT (-5.0%), WELINV (-5.0%), TRIVENIPT (-5.0%)
+**Losers:** SONAL (-7.1%), E2E (-5.0%), STLTECH (-5.0%), TRIVENIPT (-5.0%), VNL (-5.0%), TAKE (-5.0%), VINOD (-4.9%), KDL (-4.9%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **HCLTECH** | 1326.0 | +8.4 | 63 | 3 | Closed back above 20 SMA; MACD bullish crossover; Volume spike on up day (+8.4%) | clean |
-| **HAL** | 4869.0 | +2.3 | 56 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; MACD bullish crossover | clean |
-| **SHRIRAMFIN** | 988.0 | +6.3 | 49 | 3 | Closed back above 20 SMA; MACD bullish crossover; Bullish candle: bullish-engulfing | D/E high (2.8x) |
-| **BAJFINANCE** | 982.8 | +2.7 | 46 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | D/E high (3.1x) |
-| **BAJAJFINSV** | 1755.7 | +2.1 | 40 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | D/E high (2.6x) |
-| **DLF** | 664.8 | +2.3 | 52 | 2 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA | clean |
-| **PIDILITIND** | 1497.6 | +1.3 | 44 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | clean |
-| **TITAN** | 4487.0 | +2.0 | 37 | 2 | RSI recovering from oversold; Bullish candle: bullish-engulfing | PE high (68), D/E high (2.0x) |
+| **ADANIENSOL** | 1364.0 | +5.2 | 50 | 2 | Closed back above 20 SMA; Volume spike on up day (+5.2%) | D/E high (1.9x) |
+| **DLF** | 666.9 | +0.3 | 52 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | clean |
+| **NESTLEIND** | 1383.2 | +3.7 | 55 | 2 | Closed back above 20 SMA; Volume spike on up day (+3.7%) | PE high (66) |
+| **POLYCAB** | 8335.0 | +0.5 | 49 | 2 | Volume spike on up day (+0.5%); Bullish candle: hammer | clean |
+| **TECHM** | 1575.2 | +2.1 | 56 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | clean |
+| **UNIONBANK** | 174.0 | +1.0 | 48 | 2 | Closed back above 20 SMA; Volume spike on up day (+1.0%) | clean |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **VEDL** | 251.3 | -3.2 | 45 | 4 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Closed below 20 SMA; Volume spike on down day (-3.2%) | clean |
-| **MUTHOOTFIN** | 2626.0 | -0.3 | 36 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | D/E high (3.9x) |
-| **TATACONSUM** | 960.0 | +0.1 | 40 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: shooting-star | clean |
-| **POWERINDIA** | 30250.0 | -3.3 | 41 | 2 | Closed below 20 SMA; Bearish candle: hanging-man | PE high (117) |
-| **LT** | 3675.0 | +1.3 | 40 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
+| **BANKBARODA** | 229.0 | -4.0 | 40 | 4 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Closed below 20 SMA; Volume spike on down day (-4.0%) | clean |
+| **BEL** | 382.4 | +0.6 | 45 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | clean |
+| **BHARTIARTL** | 1794.6 | -0.7 | 46 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Closed below 20 SMA | clean |
+| **M&M** | 2793.7 | -2.5 | 31 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | clean |
+| **MAXHEALTH** | 852.5 | -1.0 | 24 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | clean |
+| **ASIANPAINT** | 2344.7 | -1.3 | 39 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
+| **LT** | 3642.0 | -0.9 | 38 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
+| **VAML** | 367.5 | -1.7 | 30 | 2 | Within 5% of 52w low; Bearish candle: bearish-engulfing | clean |
 
 ## Bulk deals (latest)
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| ADVANCE | QE SECURITIES LLP | BUY | 494508 | 144.21 |
-| ADVANCE | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 503862 | 143.7 |
-| ADVANCE | MICROCURVES TRADING PRIVATE LIMITED | BUY | 403104 | 143.57 |
-| ADVANCE | J4S FINANCIAL SOLUTIONS LLP | BUY | 503770 | 143.9 |
-| ADVANCE | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 748140 | 143.02 |
-| AMBICAAGAR | ORION STOCKS LTD | BUY | 75495 | 23.99 |
-| AMBICAAGAR | IRAGE BROKING SERVICES LLP | BUY | 100181 | 24.3 |
-| AQYLON | ABHISHEK ASHVINBHAI KAMDAR HUF | BUY | 11000000 | 15 |
-| ARFIN | BULLPULSE MARKETEDGE PRIVATE LIMITED | BUY | 938026 | 109.39 |
-| ARFIN | VISTAAR TRADING SERVICE PRIVATE LIMITED | BUY | 1131458 | 108.49 |
+| ADVANCE | QE SECURITIES LLP | BUY | 460856 | 155.99 |
+| ADVANCE | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 513238 | 156.1 |
+| AGARWALTUF | VAIBHAV RAJENDRA DOSHI | BUY | 127200 | 187.04 |
+| COMSYN | ARIHANT CAPITAL MARKETS LIMITED | BUY | 356376 | 259.81 |
+| COMSYN | CRABEL VINTRADE PRIVATE LIMITED | BUY | 250000 | 261 |
+| CUBEXTUB | MAYURI SHRIPAL VORA | BUY | 90000 | 200.87 |
+| EFCIL | SETU SECURITIES PVT LTD | BUY | 2000000 | 176.4 |
+| EFCIL | IRAGE BROKING SERVICES LLP | BUY | 5434 | 179 |
+| FCL | MOHAMED IRFAN MOHAMED LATIF SHAIKH | BUY | 6300000 | 60.04 |
+| FWSTC | GRETEX SHARE BROKING LIMITED | BUY | 190800 | 241.36 |
 
 ## Headlines
 
-- [BHEL Q2 Results: Net profit skyrockets 120% YoY to Rs 810 crore; revenue rises 24%](https://economictimes.indiatimes.com/markets/stocks/earnings/bhel-q2-results-net-profit-skyrockets-120-yoy-to-rs-810-crore-revenue-rises-24/articleshow/134936902.cms) — _Zerodha Pulse_
-- [India tightens Mauritius tax treaty, adds test to deny tax-driven benefits](https://www.business-standard.com/finance/news/india-mauritius-tax-treaty-amendment-principal-purpose-test-126101400600_1.html) — _Zerodha Pulse_
-- [Stock Market LIVE: Sensex falls 100 pts, Nifty around 22,650; BHEL shares gain 4% post Q2 result](https://www.business-standard.com/markets/news/stock-market-live-october-14-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101400113_1.html) — _Zerodha Pulse_
-- [Wholesale inflation hits series high of 11.39% in September on broad rise](https://www.business-standard.com/economy/news/wholesale-inflation-september-wpi-ppi-food-fuel-manufacturing-126101400599_1.html) — _Zerodha Pulse_
-- [ITLA: Better transport economics will depend on more than an apex label](https://www.thehindu.com/business/itla-better-transport-economics-will-depend-on-more-than-an-apex-label/article71582825.ece) — _Zerodha Pulse_
-- [D-Street's proxy AI trade shines in a bleak year for stocks](https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms) — _Zerodha Pulse_
-- [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
-- [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
-- [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_
-- [Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action](https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html) — _Moneycontrol Market Reports_
-- [Bulk deals: Societe Generale, Marshall Wace active in Bandhan Bank, BoB and Manappuram Finance](https://www.moneycontrol.com/news/buzzing-stocks/bulk-deals-societe-generale-marshall-wace-activebandhan-bank-bobmanappuram-finance_17532011.html) — _Moneycontrol Buzzing Stocks_
-- [Gainers and Losers: 10 stocks that moved the most on April 23](https://www.moneycontrol.com/news/buzzing-stocks/gainerslosers-10-stocks-that-movedmostapril-23_17531921.html) — _Moneycontrol Buzzing Stocks_
+- [Mini car sales jump 86% in H1 as entry-level segment shows recovery signs](https://www.business-standard.com/industry/auto/mini-car-sales-h1-fy27-siam-entry-level-passenger-vehicles-126101500506_1.html) — _Zerodha Pulse_
+- [Bessent urges World Bank to end restrictions on upstream oil, gas financing](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bessent-urges-world-bank-to-end-restrictions-on-upstream-oil-gas-financing/articleshow/134961053.cms) — _Zerodha Pulse_
+- [Stock Market LIVE: Airtel, Tech Mahindra lead 1,400-pt rally in Sensex; Nestle India drops 9% post](https://www.business-standard.com/markets/news/stock-market-live-october-15-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101500089_1.html) — _Zerodha Pulse_
+- [Bulls strike! Sensex zooms 1,400 pts intraday, Nifty at 22,950; key reasons](https://www.business-standard.com/markets/news/bulls-strike-sensex-zooms-1-100-pts-intraday-nifty-at-22-950-key-reasons-126101500351_1.html) — _Zerodha Pulse_
+- [Nestle India Q2 Results: Standalone profit jumps 36% YoY to Rs 1,027 crore, revenue rises 20%](https://economictimes.indiatimes.com/markets/stocks/earnings/nestle-india-q2-results-standalone-profit-jumps-36-yoy-to-rs-1027-crore-revenue-rises-20/articleshow/134960308.cms) — _Zerodha Pulse_
+- [Indian bonds breathe easy as Treasury yields decline](https://economictimes.indiatimes.com/markets/bonds/indian-bonds-breathe-easy-as-treasury-yields-decline/articleshow/134960547.cms) — _Zerodha Pulse_
+- [GQG on a Selling Spree in India. Cuts Stakes in 5 Adani Group Stocks](https://economictimes.indiatimes.com/markets/stocks/gqg-on-a-selling-spree-in-india-cuts-stakes-in-5-adani-group-stocks/videoshow/134961901.cms) — _ET Markets_
+- [Volume Shocker: MFs add 1 crore+ shares to 5 stocks in September; shares tumble up to 43%](https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-add-1-crore-shares-to-5-stocks-in-september-shares-tumble-up-to-43/slideshow/134961886.cms) — _ET Markets_
+- [Jio Platforms IPO: How Reliance, Meta, Google and other investors’ stakes will change post the offer](https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-how-reliance-meta-google-and-other-investors-stakes-will-change-post-the-offer/articleshow/134961525.cms) — _ET Markets_
+- [Jio IPO fever grips telecom stocks: Airtel, Vodafone Idea &amp; others rise up to 4%](https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-fever-grips-telecom-stocks-airtel-vodafone-idea-others-rise-up-to-4/articleshow/134960952.cms) — _ET Markets_
+- [Bessent urges World Bank to end restrictions on upstream oil, gas financing](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bessent-urges-world-bank-to-end-restrictions-on-upstream-oil-gas-financing/articleshow/134961053.cms) — _ET Markets_
+- [Nestle India Q2 Results: Standalone profit jumps 36% YoY to Rs 1,027 crore, revenue rises 20%](https://economictimes.indiatimes.com/markets/stocks/earnings/nestle-india-q2-results-standalone-profit-jumps-36-yoy-to-rs-1027-crore-revenue-rises-20/articleshow/134960308.cms) — _ET Markets_
 
 ---
 _Signals are rule-based screens on EOD data, not investment advice. Verify fundamentals (Screener.in) and news before acting._

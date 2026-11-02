@@ -2,88 +2,84 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Friday, 30 October 2026
+# Morning Market Report — Monday, 02 November 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 23,053.1 | +0.51 |
-| NIFTY BANK | 54,686.9 | -0.41 |
-| NIFTY MIDCAP 100 | 57,301.2 | -0.93 |
-| NIFTY SMALLCAP 100 | 18,463.6 | -1.85 |
-| NIFTY AUTO | 25,422.7 | -0.87 |
-| NIFTY FMCG | 43,609.2 | -0.62 |
-| NIFTY IT | 32,606.9 | +2.32 |
-| NIFTY METAL | 11,784.9 | -0.54 |
-| NIFTY PHARMA | 27,124.8 | +1.55 |
-| NIFTY REALTY | 813.9 | -0.72 |
-| NIFTY ENERGY | 34,957.9 | -0.97 |
+| NIFTY 50 | 23,440.8 | +1.68 |
+| NIFTY BANK | 55,002.2 | +0.58 |
+| NIFTY MIDCAP 100 | 57,983.4 | +1.19 |
+| NIFTY SMALLCAP 100 | 18,595.3 | +0.71 |
+| NIFTY AUTO | 25,761.0 | +1.33 |
+| NIFTY FMCG | 43,974.7 | +0.84 |
+| NIFTY IT | 32,442.5 | -0.50 |
+| NIFTY METAL | 12,162.7 | +3.21 |
+| NIFTY PHARMA | 27,105.0 | -0.07 |
+| NIFTY REALTY | 822.2 | +1.03 |
+| NIFTY ENERGY | 36,329.8 | +3.92 |
 
 ## FII / DII flows (₹ crore)
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 18458.64 | 16534.23 | **1924.41** |
-| FII/FPI | 13400.29 | 14343.89 | **-943.6** |
+| DII | 16643.55 | 17461.06 | **-817.51** |
+| FII/FPI | 20564.02 | 16965.48 | **3598.54** |
 
 ## Pre-open movers
 
-**Gainers:** BPLPHARMA (+19.1%), SAICAPI (+13.7%), LAL (+10.8%), VOGL (+8.7%), VEDPOWER (+8.0%), DEEPAKNTR (+7.0%), BOROLTD (+7.0%), FWSTC (+6.8%)
+**Gainers:** SUNLOC (+13.7%), PACEDIGITK (+11.0%), RBMINFRA (+10.1%), MLKFOOD (+10.0%), DHRUV (+10.0%), SGLRES (+9.4%), ORCHASP (+9.3%), PANCHMAHQ (+8.9%)
 
-**Losers:** EQUITASBNK (-13.9%), ASTAR (-7.9%), STEAMHOUSE (-7.8%), PRECOT (-7.4%), RPGLIFE (-6.4%), STLTECH (-5.0%), MOREPENLAB (-5.0%), MAHASTEEL (-5.0%)
+**Losers:** QUALIANCE (-14.1%), ADDIND (-13.6%), LATENTVIEW (-13.0%), SVLL (-11.3%), RKFAL (-10.0%), BRIGHTBR (-8.9%), BUILDPRO (-8.7%), INDOUS (-7.5%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **ADANIPORTS** | 1872.0 | +6.3 | 65 | 4 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; MACD bullish crossover; Volume spike on up day (+6.3%) | clean |
-| **TATACAP** | 326.4 | +5.5 | 52 | 4 | Closed back above 20 SMA; MACD bullish crossover; Volume spike on up day (+5.5%); Bullish candle: bullish-engulfing | D/E high (5.2x) |
-| **ADANIGREEN** | 1307.0 | +3.0 | 53 | 3 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA; MACD bullish crossover | PE high (118), D/E high (3.8x), ROE low (7%) |
-| **ETERNAL** | 337.9 | +3.6 | 59 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Bullish candle: bullish-engulfing | PE high (648), ROE low (2%) |
-| **KOTAKBANK** | 459.0 | +4.3 | 68 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; MACD bullish crossover | clean |
-| **TVSMOTOR** | 4280.0 | +0.9 | 65 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Volume spike on up day (+0.9%) | D/E high (3.2x) |
-| **ADANIENSOL** | 1365.0 | +5.5 | 53 | 2 | Closed back above 20 SMA; Bullish candle: bullish-engulfing | D/E high (1.7x) |
-| **ADANIPOWER** | 191.2 | +3.6 | 48 | 2 | MACD bullish crossover; Bullish candle: bullish-engulfing | clean |
-| **CHOLAFIN** | 1604.2 | +3.8 | 51 | 2 | Closed back above 20 SMA; Volume spike on up day (+3.8%) | D/E high (6.7x) |
-| **DLF** | 694.3 | +4.2 | 62 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: bullish-engulfing | clean |
+| **INDIGO** | 4877.6 | +4.3 | 55 | 4 | Closed back above 20 SMA; MACD bullish crossover; Volume spike on up day (+4.3%); Bullish candle: bullish-engulfing | D/E high (17.4x), ROE low (-60%) |
+| **TRENT** | 3017.3 | +5.4 | 62 | 3 | Uptrend (above rising 50/200 SMA); MACD bullish crossover; Volume spike on up day (+5.4%) | PE high (90) |
+| **GAIL** | 167.9 | +1.7 | 49 | 2 | Closed back above 20 SMA; MACD bullish crossover | clean |
+| **SUNPHARMA** | 1777.7 | +0.9 | 48 | 2 | Closed back above 20 SMA; Volume spike on up day (+0.9%) | clean |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **BAJAJFINSV** | 1668.0 | +0.9 | 35 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Death cross (50/200 SMA) | D/E high (2.6x) |
-| **NESTLEIND** | 1188.6 | +1.8 | 33 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Death cross (50/200 SMA) | clean |
-| **POLYCAB** | 7745.0 | +0.8 | 40 | 3 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA); Bearish candle: shooting-star | clean |
-| **CUMMINSIND** | 4515.2 | -2.3 | 40 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
-| **HINDALCO** | 886.3 | -0.8 | 39 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
-| **LTM** | 4094.7 | -0.2 | 46 | 2 | Downtrend (below falling 50/200 SMA); Closed below 20 SMA | clean |
-| **SHRIRAMFIN** | 841.1 | +1.8 | 33 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | clean |
-| **VAML** | 349.0 | -2.9 | 34 | 2 | Within 5% of 52w low; Bearish candle: bearish-engulfing | clean |
+| **IRFC** | 73.4 | -3.1 | 37 | 4 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; MACD bearish crossover; Bearish candle: bearish-engulfing | D/E high (7.2x) |
+| **M&M** | 2840.3 | -1.7 | 40 | 4 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Closed below 20 SMA; Bearish candle: bearish-engulfing | clean |
+| **VBL** | 392.0 | -5.5 | 38 | 4 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-5.5%); Bearish candle: bearish-engulfing | PE high (137) |
+| **AMBUJACEM** | 348.0 | -1.9 | 39 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: shooting-star | ROE low (4%) |
+| **BAJAJFINSV** | 1667.6 | -0.0 | 35 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Death cross (50/200 SMA) | D/E high (2.6x) |
+| **BEL** | 369.9 | -0.0 | 43 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | clean |
+| **BRITANNIA** | 4640.0 | -0.3 | 40 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | clean |
+| **CANBK** | 117.5 | -1.9 | 45 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Closed below 20 SMA | clean |
+| **GODREJCP** | 818.0 | -2.3 | 35 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-2.3%) | clean |
+| **JIOFIN** | 204.5 | -1.2 | 33 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | PE high (81), ROE low (1%) |
 
 ## Bulk deals (latest)
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| AEROFLEX | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 1315179 | 553.64 |
-| AEROFLEX | MICROCURVES TRADING PRIVATE LIMITED | BUY | 1374174 | 556.24 |
-| AEROFLEX | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 867992 | 553.59 |
-| AEROFLEX | HRTI PRIVATE LIMITED | BUY | 705798 | 554.31 |
-| AEROFLEX | QE SECURITIES LLP | BUY | 1400910 | 554 |
-| AGUL | SADRAVYA MONEY PRIVATE LIMITED | BUY | 50000 | 46 |
-| AGUL | AUM SECURITIES PVT. LTD. | BUY | 2000 | 50.05 |
-| AMBANIORGO | U.K.VORA | BUY | 50000 | 158.5 |
-| ASIANTILES | GOLDENDUNES BUILDHOME PRIVATE LIMITED | BUY | 1891482 | 46.72 |
-| AUSL | MAYANK JAIN | BUY | 160000 | 22 |
+| AEROFLEX | QE SECURITIES LLP | BUY | 670611 | 540.12 |
+| ANNAPURNA | PROGNOSIS SECURITIES PVT. LTD | BUY | 167387 | 123.24 |
+| ANNAPURNA | ATLAS EVENTS PRIVATE LIMITED | BUY | 167104 | 110.2 |
+| COMSYN | ARIHANT CAPITAL MARKETS LIMITED | BUY | 231475 | 203.77 |
+| EQUITASBNK | SSPL SECURITIES PRIVATE LIMITED | BUY | 9900000 | 50.59 |
+| EQUITASBNK | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 6476843 | 50.28 |
+| HUBTOWN | ARIHANT CAPITAL MARKETS LIMITED | BUY | 1772283 | 186.44 |
+| INTEGRITY | VENKATESHWARA INDUSTRIAL PROMOTION CO LIMITED | BUY | 56400 | 200.5 |
+| JISLDVREQS | KREDENT TRADING LLP | BUY | 218 | 19.1 |
+| JISLJALEQS | NITN KAPOOR AND HUF | BUY | 9609714 | 26.41 |
 
 ## Headlines
 
-- [Stock Market LIVE: Sensex up 300 pts, Nifty tops 23,000; Trent, IndiGo top gainers](https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html) — _Zerodha Pulse_
-- [FIIs hold $717 billion worth of Indian stocks, but trim exposure across 56% of Nifty 500 companies.  Where are they investing?](https://economictimes.indiatimes.com/markets/stocks/news/fiis-hold-717-billion-worth-of-indian-stocks-but-trim-exposure-across-56-of-nifty-500-companies-where-are-they-investing/articleshow/135353242.cms) — _Zerodha Pulse_
-- [Sun Pharma Q2 Results: Profit falls 36% YoY to Rs 1,989 crore on exceptional charges](https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-results-profit-falls-36-yoy-to-rs-1989-crore-on-exceptional-charges/articleshow/135352681.cms) — _Zerodha Pulse_
-- [Global Market: European automakers get earnings boost as Chinese competition weighs on recovery](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-automakers-get-earnings-boost-as-chinese-competition-weighs-on-recovery/articleshow/135352780.cms) — _Zerodha Pulse_
-- [Varun Beverages shares fall over 4% as Q3 margin pressure weighs despite a 33% YoY revenue growth](https://economictimes.indiatimes.com/markets/stocks/news/varun-beverages-shares-fall-over-4-as-q3-margin-pressure-weighs-despite-a-33-yoy-revenue-growth/articleshow/135352713.cms) — _Zerodha Pulse_
-- [Varun Beverages Q3 results: Profit rises 13.5% to ₹830.6 cr, revenue up 33%](https://www.business-standard.com/companies/quarterly-results/varun-beverages-q3-results-profit-rises-13-5-to-830-6-cr-revenue-up-33-126103000724_1.html) — _Zerodha Pulse_
+- [Don't travel by air, says Supreme Court; refuses urgent listing of plea alleging 700% hike in airfares](https://www.thehindu.com/news/national/dont-travel-by-air-says-supreme-court-refuses-urgent-listing-of-plea-alleging-700-hike-in-airfares/article71656239.ece) — _Zerodha Pulse_
+- [PC Jeweller says SEBI warns promoter, compliance officer over failure to maintain insider-trading database](https://www.thehindu.com/business/Industry/pc-jeweller-says-sebi-warns-promoter-compliance-officer-over-failure-to-maintain-insider-trading-database/article71656136.ece) — _Zerodha Pulse_
+- [Supreme Court allows green crackers in Delhi-NCR for fixed hours on Nov 7-8](https://www.business-standard.com/india-news/sc-permits-green-crackers-for-diwali-in-delhi-ncr-full-ban-from-nov-9-126110200785_1.html) — _Zerodha Pulse_
+- [Gopal Vittal re-elected GSMA Chair for second term until December 2028](https://www.business-standard.com/companies/news/gopal-vittal-re-elected-gsma-chair-for-second-term-until-december-2028-126110200853_1.html) — _Zerodha Pulse_
+- [Mold-TekPackagingsharessurge17% as Q2FY27profitjumps35% YoY to Rs21crore](https://economictimes.indiatimes.com/markets/stocks/news/mold-tekpackagingsharessurge17-as-q2fy27profitjumps35-yoy-to-rs21crore/articleshow/135454971.cms) — _Zerodha Pulse_
+- [Global Market: French bond yields hold steady despite Fitch downgrade warning](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-yields-hold-steady-despite-fitch-downgrade-warning/articleshow/135454878.cms) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

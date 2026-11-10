@@ -2,7 +2,7 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Monday, 09 November 2026
+# Morning Market Report — Tuesday, 10 November 2026
 
 ## Index snapshot (NSE, at run time)
 
@@ -24,8 +24,8 @@ title: Morning Market Report
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 331.11 | 1031.42 | **-700.31** |
-| FII/FPI | 52.39 | 52.64 | **-0.25** |
+| DII | 12764.97 | 19937.5 | **-7172.53** |
+| FII/FPI | 20310.99 | 13098.77 | **7212.22** |
 
 ## Pre-open movers
 
@@ -37,44 +37,39 @@ title: Morning Market Report
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **ABB** | 6774.0 | +2.2 | 51 | 3 | Closed back above 20 SMA; Volume spike on up day (+2.2%); Bullish candle: bullish-engulfing | PE high (95) |
-| **PNB** | 126.6 | +0.4 | 66 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Bullish candle: hammer | clean |
-| **SIEMENS** | 3560.0 | +3.7 | 51 | 3 | Closed back above 20 SMA; Volume spike on up day (+3.7%); Bullish candle: bullish-engulfing | PE high (91) |
-| **BAJAJHLDNG** | 11044.0 | +1.8 | 56 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | clean |
-| **CIPLA** | 1411.0 | +0.5 | 67 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: bullish-engulfing | ROE low (8%) |
-| **HCLTECH** | 1440.0 | +0.7 | 67 | 2 | Uptrend (above rising 50/200 SMA); Golden cross (50/200 SMA) | clean |
-| **HINDALCO** | 958.4 | +2.2 | 62 | 2 | Volume spike on up day (+2.2%); Bullish candle: bullish-engulfing | clean |
-| **HYUNDAI** | 2130.0 | +0.4 | 66 | 2 | Uptrend (above rising 50/200 SMA); Volume spike on up day (+0.4%) | clean |
-| **TRENT** | 3079.0 | +0.8 | 65 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: bullish-engulfing | PE high (88) |
+| **ADANIPOWER** | 206.0 | +0.8 | 61 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: hammer | clean |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **CUMMINSIND** | 4048.8 | -0.2 | 31 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-0.2%) | clean |
-| **BHARTIARTL** | 2107.2 | +2.4 | 75 | 2 | RSI overbought (75); Bearish candle: hanging-man | clean |
-| **BRITANNIA** | 4785.0 | -3.9 | 49 | 2 | Downtrend (below falling 50/200 SMA); Volume spike on down day (-3.9%) | clean |
-| **CGPOWER** | 773.0 | -4.4 | 36 | 2 | Volume spike on down day (-4.4%); Bearish candle: hanging-man | PE high (92) |
-| **MAXHEALTH** | 934.0 | +0.2 | 61 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: hanging-man | PE high (65) |
-| **ENRIN** | 2809.0 | -1.7 | 42 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | PE high (69) |
-| **TATAPOWER** | 352.5 | -3.3 | 50 | 2 | Downtrend (below falling 50/200 SMA); Volume spike on down day (-3.3%) | D/E high (1.7x) |
+| **GODREJCP** | 850.7 | -0.0 | 51 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | clean |
+| **ENRIN** | 2837.2 | +1.0 | 44 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | PE high (69) |
+| **SUNPHARMA** | 1904.5 | +2.4 | 73 | 2 | RSI overbought (73); Bearish candle: shooting-star | clean |
 
 ## Bulk deals (latest)
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| MOBILISE | KULBHUSHAN PARASHAR | BUY | 150400 | 120.99 |
-| MOBILISE | PRAMOD TRADERS | SELL | 96000 | 121 |
-| MOBILISE | MAAHIR CONSULTANTS | SELL | 62400 | 121 |
+| AAATECH | VAIBHAV RAJENDRA DOSHI | BUY | 101084 | 94.27 |
+| AARTIDRUGS | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 868877 | 499.83 |
+| AARTIDRUGS | MICROCURVES TRADING PRIVATE LIMITED | BUY | 1352619 | 500.23 |
+| AARTIDRUGS | QE SECURITIES LLP | BUY | 885686 | 497.86 |
+| AARTIDRUGS | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 744831 | 500.07 |
+| AARTIDRUGS | HRTI PRIVATE LIMITED | BUY | 472405 | 495.08 |
+| ALEMBICLTD | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 1547974 | 110.75 |
+| BLSPOLY | PLUTUS WEALTH MANAGEMENT LLP | BUY | 366269 | 238.15 |
+| CHEMPLASTS | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 841733 | 238.84 |
+| COHANCE | JASUB PROPERTY HOLDINGS LLP | BUY | 3000000 | 430 |
 
 ## Headlines
 
-- [Gold Price Prediction For Next 10 Days: Three Dates That Will Decide The Direction](https://www.ndtvprofit.com/markets/gold-price-prediction-for-next-10-days-three-dates-that-will-decide-the-direction-12303554#publisher=newsstand) — _Zerodha Pulse_
-- [Banks to plough back UPI MDR gains into tech, security and expansion](https://www.business-standard.com/industry/banking/banks-to-plough-back-upi-mdr-gains-into-tech-security-and-expansion-126110900770_1.html) — _Zerodha Pulse_
-- [Govt Brings Together DGCA, NITI Aayog, FSSAI In Rare Push For Sustainable Aviation Fuel](https://www.ndtvprofit.com/economy/govt-brings-together-dgca-niti-aayog-fssai-in-rare-push-for-sustainable-aviation-fuel-12303541#publisher=newsstand) — _Zerodha Pulse_
-- [Gunmaaster G9: Trailer Of Emraan Hashmi And Genelia Deshmukh's Film To Drop On November 11](https://www.ndtvprofit.com/entertainment/trailer-of-emraan-hashmi-and-genelia-deshmukh-s-gunmaaster-g9-to-release-on-this-date-12303325#publisher=newsstand) — _Zerodha Pulse_
-- [No Rockets In Mumbai Till November 25: BMC Imposes Ban After Multiple Diwali Fires](https://www.ndtvprofit.com/india/no-rockets-in-mumbai-till-november-25-bmc-imposes-ban-after-multiple-diwali-fires-12303423#publisher=newsstand) — _Zerodha Pulse_
-- [AEEE 2027 Registration Begins: Applications Available On aeee.amrita.edu](https://www.ndtvprofit.com/education/aeee-2027-registration-begins-application-form-link-released-on-aeee-amrita-edu-12303502#publisher=newsstand) — _Zerodha Pulse_
+- [Eurozone bond yields fall as lower energy prices ease inflation concerns](https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms) — _Zerodha Pulse_
+- [Smaller cities drive over half of India's incremental car sales in 2026](https://www.business-standard.com/industry/auto/smaller-cities-drive-over-half-of-india-s-incremental-car-sales-in-2026-126111000465_1.html) — _Zerodha Pulse_
+- [CISCE Board Exams 2027: Schedule For Class 10 From Feb 15-Mar 31, Feb 9-Apr 8 For Class 12](https://www.ndtvprofit.com/education/cisce-board-exams-2027-schedule-for-class-10-from-feb-15-mar-31-feb-9-apr-8-for-class-12-12307578#publisher=newsstand) — _Zerodha Pulse_
+- [Sandpapergate Row: Mitchell Starc Breaks Silence After Usman Khawaja's Explosive Claims](https://www.ndtvprofit.com/sports/sandpapergate-row-mitchell-starc-breaks-silence-after-usman-khawajas-explosive-claims-12307559#publisher=newsstand) — _Zerodha Pulse_
+- [War Premium Fades: Brent Slips Below $90 After Two Months As Trump's Iran Pivot Triggers Crude Selloff](https://www.ndtvprofit.com/markets/oil-below-90-brent-hits-nearly-two-month-low-as-trumps-iran-pivot-triggers-crude-selloff-12307554#publisher=newsstand) — _Zerodha Pulse_
+- [Cochin Shipyard Dividend: PSU Declares Interim Dividend Of Rs 3/Share — Check Record Date](https://www.ndtvprofit.com/markets/cochin-shipyard-dividend-psu-declares-interim-dividend-of-rs-3-share-check-record-date-12307550#publisher=newsstand) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

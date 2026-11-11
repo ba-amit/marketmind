@@ -2,23 +2,23 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Tuesday, 10 November 2026
+# Morning Market Report — Wednesday, 11 November 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 25,044.7 | +0.23 |
-| NIFTY BANK | 59,741.2 | +1.51 |
-| NIFTY MIDCAP 100 | 61,022.6 | +0.55 |
-| NIFTY SMALLCAP 100 | 19,185.0 | +0.10 |
-| NIFTY AUTO | 27,925.9 | +0.30 |
-| NIFTY FMCG | 46,660.7 | -0.15 |
-| NIFTY IT | 32,468.9 | -1.22 |
-| NIFTY METAL | 12,664.6 | -0.46 |
-| NIFTY PHARMA | 28,896.1 | +1.65 |
-| NIFTY REALTY | 897.7 | +0.77 |
-| NIFTY ENERGY | 37,164.9 | +0.38 |
+| NIFTY 50 | 25,255.0 | +0.84 |
+| NIFTY BANK | 60,792.4 | +1.76 |
+| NIFTY MIDCAP 100 | 61,519.1 | +0.81 |
+| NIFTY SMALLCAP 100 | 19,489.3 | +1.59 |
+| NIFTY AUTO | 28,523.3 | +2.14 |
+| NIFTY FMCG | 47,188.6 | +1.13 |
+| NIFTY IT | 32,295.6 | -0.53 |
+| NIFTY METAL | 12,786.1 | +0.96 |
+| NIFTY PHARMA | 28,776.5 | -0.41 |
+| NIFTY REALTY | 894.0 | -0.42 |
+| NIFTY ENERGY | 37,548.1 | +1.03 |
 
 ## FII / DII flows (₹ crore)
 
@@ -29,9 +29,9 @@ title: Morning Market Report
 
 ## Pre-open movers
 
-**Gainers:** SUPREME (+10.1%), SHIVAM-RE1 (+8.5%), RILINFRA (+8.3%), VGCL (+8.2%), DHARAN (+7.7%), KEEPLEARN (+7.5%), HBSL (+7.3%), VIJSOLX (+7.0%)
+**Gainers:** URBAN-RE (+20.0%), MDL (+13.8%), TOUCHWOOD (+11.8%), FLEXITUFF (+10.4%), MARCO (+9.7%), NORBTEAEXP (+9.5%), SHIVAM-RE1 (+9.4%), LEXUS (+8.5%)
 
-**Losers:** INFOMEDIA (-6.4%), SPELS (-5.0%), BCSSL (-5.0%), PASHUPATI (-5.0%), ENNATURE (-5.0%), 21STCENMGM (-5.0%), CEREBRAINT (-4.9%), HAMPTON (-4.8%)
+**Losers:** NILE (-9.3%), RSDFIN (-9.2%), RRECL (-9.1%), HBPOR (-7.3%), ORTINGLOBE (-7.0%), COCHINSHIP (-7.0%), SGLRES (-5.6%), AXIOMGAS (-5.5%)
 
 ## Buy signals
 
@@ -44,7 +44,7 @@ title: Morning Market Report
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
 | **GODREJCP** | 850.7 | -0.0 | 51 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | clean |
-| **ENRIN** | 2837.2 | +1.0 | 44 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | PE high (69) |
+| **ENRIN** | 2837.2 | +1.0 | 44 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | PE high (71) |
 | **SUNPHARMA** | 1904.5 | +2.4 | 73 | 2 | RSI overbought (73); Bearish candle: shooting-star | clean |
 
 ## Bulk deals (latest)
@@ -64,12 +64,12 @@ title: Morning Market Report
 
 ## Headlines
 
-- [Eurozone bond yields fall as lower energy prices ease inflation concerns](https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms) — _Zerodha Pulse_
-- [Smaller cities drive over half of India's incremental car sales in 2026](https://www.business-standard.com/industry/auto/smaller-cities-drive-over-half-of-india-s-incremental-car-sales-in-2026-126111000465_1.html) — _Zerodha Pulse_
-- [CISCE Board Exams 2027: Schedule For Class 10 From Feb 15-Mar 31, Feb 9-Apr 8 For Class 12](https://www.ndtvprofit.com/education/cisce-board-exams-2027-schedule-for-class-10-from-feb-15-mar-31-feb-9-apr-8-for-class-12-12307578#publisher=newsstand) — _Zerodha Pulse_
-- [Sandpapergate Row: Mitchell Starc Breaks Silence After Usman Khawaja's Explosive Claims](https://www.ndtvprofit.com/sports/sandpapergate-row-mitchell-starc-breaks-silence-after-usman-khawajas-explosive-claims-12307559#publisher=newsstand) — _Zerodha Pulse_
-- [War Premium Fades: Brent Slips Below $90 After Two Months As Trump's Iran Pivot Triggers Crude Selloff](https://www.ndtvprofit.com/markets/oil-below-90-brent-hits-nearly-two-month-low-as-trumps-iran-pivot-triggers-crude-selloff-12307554#publisher=newsstand) — _Zerodha Pulse_
-- [Cochin Shipyard Dividend: PSU Declares Interim Dividend Of Rs 3/Share — Check Record Date](https://www.ndtvprofit.com/markets/cochin-shipyard-dividend-psu-declares-interim-dividend-of-rs-3-share-check-record-date-12307550#publisher=newsstand) — _Zerodha Pulse_
+- [Power ministry seeks to extend LPS Rules benefit for energy storage cos](https://www.business-standard.com/industry/news/power-ministry-late-payment-surcharge-rules-energy-storage-bess-126111100866_1.html) — _Zerodha Pulse_
+- [India, Canada discuss advancing negotiations for proposed trade pact](https://www.thehindu.com/news/national/india-canada-discuss-advancing-negotiations-for-proposed-trade-pact/article71689215.ece) — _Zerodha Pulse_
+- [ValueQuest commits ₹775 cr to 3 Indian manufacturing, defence companies](https://www.business-standard.com/companies/news/valuequest-investment-sagar-defence-rational-engineers-tase-global-126111100837_1.html) — _Zerodha Pulse_
+- [Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%](https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html) — _Zerodha Pulse_
+- [Stock Market Highlights: Sensex Jumps 773 Points, Nifty 50 Ends Above 25,250; IndiGo, M&M, Trent Top Gainers](https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-crude-oil-prices-gold-rate-today-silver-price-us-iran-war-banks-it-stocks-12310823#publisher=newsstand) — _Zerodha Pulse_
+- [India Is Beating Wall Street. One Fintech CEO Says That Only Strengthens The Case For US Stocks](https://www.ndtvprofit.com/markets/india-is-beating-wall-street-one-fintech-ceo-says-that-only-strengthens-the-case-for-us-stocks-12312287#publisher=newsstand) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

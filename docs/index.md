@@ -2,74 +2,79 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Wednesday, 11 November 2026
+# Morning Market Report — Thursday, 12 November 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 25,255.0 | +0.84 |
-| NIFTY BANK | 60,792.4 | +1.76 |
-| NIFTY MIDCAP 100 | 61,519.1 | +0.81 |
-| NIFTY SMALLCAP 100 | 19,489.3 | +1.59 |
-| NIFTY AUTO | 28,523.3 | +2.14 |
-| NIFTY FMCG | 47,188.6 | +1.13 |
-| NIFTY IT | 32,295.6 | -0.53 |
-| NIFTY METAL | 12,786.1 | +0.96 |
-| NIFTY PHARMA | 28,776.5 | -0.41 |
-| NIFTY REALTY | 894.0 | -0.42 |
-| NIFTY ENERGY | 37,548.1 | +1.03 |
+| NIFTY 50 | 25,299.3 | +0.18 |
+| NIFTY BANK | 61,518.5 | +1.19 |
+| NIFTY MIDCAP 100 | 62,039.0 | +0.85 |
+| NIFTY SMALLCAP 100 | 19,706.8 | +1.12 |
+| NIFTY AUTO | 28,231.0 | -1.02 |
+| NIFTY FMCG | 46,838.5 | -0.74 |
+| NIFTY IT | 32,163.5 | -0.41 |
+| NIFTY METAL | 12,772.6 | -0.11 |
+| NIFTY PHARMA | 28,675.8 | -0.35 |
+| NIFTY REALTY | 934.2 | +4.51 |
+| NIFTY ENERGY | 37,389.1 | -0.42 |
 
 ## FII / DII flows (₹ crore)
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 12764.97 | 19937.5 | **-7172.53** |
-| FII/FPI | 20310.99 | 13098.77 | **7212.22** |
+| DII | 19704.39 | 28138.92 | **-8434.53** |
+| FII/FPI | 30087.21 | 17523.88 | **12563.33** |
 
 ## Pre-open movers
 
-**Gainers:** URBAN-RE (+20.0%), MDL (+13.8%), TOUCHWOOD (+11.8%), FLEXITUFF (+10.4%), MARCO (+9.7%), NORBTEAEXP (+9.5%), SHIVAM-RE1 (+9.4%), LEXUS (+8.5%)
+**Gainers:** FLEXITUFF (+19.9%), URBAN-RE (+19.6%), ROTO (+13.0%), PIONRINV (+12.4%), KJMCFIN (+10.0%), PRUDMOULI (+9.5%), FRONTSP (+9.2%), KEEPLEARN (+8.6%)
 
-**Losers:** NILE (-9.3%), RSDFIN (-9.2%), RRECL (-9.1%), HBPOR (-7.3%), ORTINGLOBE (-7.0%), COCHINSHIP (-7.0%), SGLRES (-5.6%), AXIOMGAS (-5.5%)
+**Losers:** NAMOEWASTE (-12.4%), GLOTTIS (-11.5%), NKIND (-6.4%), PML (-5.8%), SICALLOG (-5.0%), SPELS (-5.0%), TIKONA (-5.0%), PASHUPATI (-5.0%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **ADANIPOWER** | 206.0 | +0.8 | 61 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: hammer | clean |
+| **MOTHERSON** | 169.7 | +4.8 | 61 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Volume spike on up day (+4.8%) | clean |
+| **CIPLA** | 1419.9 | +1.1 | 68 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: hammer | ROE low (8%) |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **GODREJCP** | 850.7 | -0.0 | 51 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | clean |
-| **ENRIN** | 2837.2 | +1.0 | 44 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | PE high (71) |
-| **SUNPHARMA** | 1904.5 | +2.4 | 73 | 2 | RSI overbought (73); Bearish candle: shooting-star | clean |
+| **DIVISLAB** | 11367.0 | -1.7 | 79 | 2 | RSI overbought (79); Volume spike on down day (-1.7%) | PE high (91) |
+| **ICICIBANK** | 1571.6 | -1.1 | 76 | 2 | RSI overbought (76); Bearish candle: bearish-engulfing | clean |
+| **MAZDOCK** | 1890.0 | +0.6 | 45 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: shooting-star | clean |
+| **ENRIN** | 2962.3 | +4.4 | 51 | 2 | Downtrend (below falling 50/200 SMA); Death cross (50/200 SMA) | PE high (73) |
+| **SBIN** | 1061.2 | +1.8 | 71 | 2 | RSI overbought (71); Bearish candle: shooting-star | clean |
+| **TATACONSUM** | 1093.0 | +0.8 | 72 | 2 | RSI overbought (72); Bearish candle: hanging-man | PE high (64), ROE low (8%) |
+| **TITAN** | 4970.0 | -0.7 | 71 | 2 | RSI overbought (71); Bearish candle: bearish-engulfing | PE high (62), D/E high (2.2x) |
 
 ## Bulk deals (latest)
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| AAATECH | VAIBHAV RAJENDRA DOSHI | BUY | 101084 | 94.27 |
-| AARTIDRUGS | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 868877 | 499.83 |
-| AARTIDRUGS | MICROCURVES TRADING PRIVATE LIMITED | BUY | 1352619 | 500.23 |
-| AARTIDRUGS | QE SECURITIES LLP | BUY | 885686 | 497.86 |
-| AARTIDRUGS | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 744831 | 500.07 |
-| AARTIDRUGS | HRTI PRIVATE LIMITED | BUY | 472405 | 495.08 |
-| ALEMBICLTD | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 1547974 | 110.75 |
-| BLSPOLY | PLUTUS WEALTH MANAGEMENT LLP | BUY | 366269 | 238.15 |
-| CHEMPLASTS | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 841733 | 238.84 |
-| COHANCE | JASUB PROPERTY HOLDINGS LLP | BUY | 3000000 | 430 |
+| AONESTEELS | BULLPULSE MARKETEDGE PRIVATE LIMITED | SELL | 500000 | 425.43 |
+| ASHOKA | MICROCURVES TRADING PRIVATE LIMITED | SELL | 1808190 | 114.18 |
+| ASHOKA | JUNOMONETA FINSOL PRIVATE LIMITED | SELL | 1778668 | 113.97 |
+| ASHOKA | ALPHAGREP SECURITIES PRIVATE LIMITED | SELL | 2199664 | 114.2 |
+| ASHOKA | QE SECURITIES LLP | SELL | 2074353 | 113.89 |
+| BALMLAWRIE | ALPHAGREP SECURITIES PRIVATE LIMITED | SELL | 934797 | 186.13 |
+| COHANCE | JASTI FAMILY TRUST | SELL | 2100000 | 449.5 |
+| COMSYN | ARIHANT CAPITAL MARKETS LIMITED | SELL | 254941 | 246 |
+| COREIN | PJS SECURITIES LLP | SELL | 56000 | 118.37 |
+| CPPLUS | DIXON TECHNOLOGIES (INDIA) LIMITED | SELL | 702481 | 4140 |
 
 ## Headlines
 
-- [Power ministry seeks to extend LPS Rules benefit for energy storage cos](https://www.business-standard.com/industry/news/power-ministry-late-payment-surcharge-rules-energy-storage-bess-126111100866_1.html) — _Zerodha Pulse_
-- [India, Canada discuss advancing negotiations for proposed trade pact](https://www.thehindu.com/news/national/india-canada-discuss-advancing-negotiations-for-proposed-trade-pact/article71689215.ece) — _Zerodha Pulse_
-- [ValueQuest commits ₹775 cr to 3 Indian manufacturing, defence companies](https://www.business-standard.com/companies/news/valuequest-investment-sagar-defence-rational-engineers-tase-global-126111100837_1.html) — _Zerodha Pulse_
-- [Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%](https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html) — _Zerodha Pulse_
-- [Stock Market Highlights: Sensex Jumps 773 Points, Nifty 50 Ends Above 25,250; IndiGo, M&M, Trent Top Gainers](https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-crude-oil-prices-gold-rate-today-silver-price-us-iran-war-banks-it-stocks-12310823#publisher=newsstand) — _Zerodha Pulse_
-- [India Is Beating Wall Street. One Fintech CEO Says That Only Strengthens The Case For US Stocks](https://www.ndtvprofit.com/markets/india-is-beating-wall-street-one-fintech-ceo-says-that-only-strengthens-the-case-for-us-stocks-12312287#publisher=newsstand) — _Zerodha Pulse_
+- [Rupee falls 33 paise to close at 94.04 against U.S. dollar](https://www.thehindu.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar/article71693331.ece) — _Zerodha Pulse_
+- [Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil](https://www.thehindu.com/business/markets-extend-gains-for-3rd-day-sensex-ends-above-81900-on-fii-inflows-lower-crude-oil/article71693356.ece) — _Zerodha Pulse_
+- [Why Are US Stock Futures Down? Three Reasons, And Nvidia Is Only The First](https://www.ndtvprofit.com/markets/why-are-us-stock-futures-down-three-reasons-and-nvidia-is-only-the-first-12317027#publisher=newsstand) — _Zerodha Pulse_
+- [Email warns of blasts at Mumbai airport, Amitabh Bachchan's residence](https://www.business-standard.com/india-news/email-warns-of-blasts-at-mumbai-airport-amitabh-bachchan-s-residence-126111201011_1.html) — _Zerodha Pulse_
+- [Retail inflation at 6.09% in October, breaches RBI's upper band after 2 yrs](https://www.business-standard.com/economy/news/retail-inflation-at-6-09-in-october-breaches-rbi-s-upper-band-after-2-yrs-126111201088_1.html) — _Zerodha Pulse_
+- [Q2 Results Live: Ola Electric Narrows Loss Rs 362 Crore, Revenue Falls; Oil India Profit Falls 36%, Declares Dividend](https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

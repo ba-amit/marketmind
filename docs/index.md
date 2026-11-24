@@ -2,7 +2,7 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Monday, 23 November 2026
+# Morning Market Report — Tuesday, 24 November 2026
 
 ## Index snapshot (NSE, at run time)
 
@@ -24,33 +24,37 @@ title: Morning Market Report
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 18492.63 | 23352.43 | **-4859.8** |
-| FII/FPI | 23596.4 | 13287.98 | **10308.42** |
+| DII | 16505.75 | 19265.87 | **-2760.12** |
+| FII/FPI | 23473.67 | 17800.68 | **5672.99** |
 
 ## Pre-open movers
 
 **Gainers:** KEEPLEARN (+16.3%), HCL-INSYS (+11.7%), SONAL (+10.0%), SHALPAINTS (+9.8%), HECPROJECT (+9.7%), BRIGHTOUTD (+9.7%), ABINFRA (+9.6%), S&SPOWER (+9.0%)
 
-**Losers:** IEML-RE1 (-17.5%), PACIFICI (-9.8%), APLAPOLLO (-7.8%), BALAXI (-6.9%), ODYCORP (-5.2%), JKSHAH (-5.0%), NIMBSPROJ (-5.0%), STLTECH (-5.0%)
+**Losers:** IEML-RE1 (-17.5%), PACIFICI (-9.8%), APLAPOLLO (-7.8%), BALAXI (-6.9%), ODYCORP (-5.2%), JKSHAH (-5.0%), NIMBSPROJ (-5.0%), VERANDA (-5.0%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **DRREDDY** | 1390.2 | -0.8 | 69 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Golden cross (50/200 SMA) | ROE low (7%) |
-| **HCLTECH** | 1344.4 | +0.9 | 45 | 3 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 45); Bullish candle: bullish-engulfing | clean |
-| **TECHM** | 1746.2 | +1.3 | 52 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Bullish candle: bullish-engulfing | clean |
-| **INDIGO** | 5587.6 | +2.1 | 67 | 2 | Uptrend (above rising 50/200 SMA); Bullish candle: bullish-engulfing | D/E high (17.4x), ROE low (-60%) |
+| **HCLTECH** | 1364.3 | +1.5 | 50 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 50) | clean |
+| **TCS** | 2460.0 | +3.5 | 57 | 2 | Closed back above 20 SMA; Volume spike on up day (+3.5%) | clean |
+| **TITAN** | 4680.0 | +1.3 | 49 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 49) | D/E high (2.2x) |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **TATASTEEL** | 178.0 | -1.6 | 47 | 5 | Downtrend (below falling 50/200 SMA); Closed below 20 SMA; MACD bearish crossover; Volume spike on down day (-1.6%); Bearish candle: hanging-man | clean |
-| **HINDZINC** | 521.6 | -1.4 | 41 | 2 | Downtrend (below falling 50/200 SMA); Volume spike on down day (-1.4%) | clean |
-| **MUTHOOTFIN** | 2550.5 | -2.6 | 41 | 2 | Downtrend (below falling 50/200 SMA); MACD bearish crossover | D/E high (4.0x) |
-| **TITAN** | 4620.0 | -1.7 | 46 | 2 | Closed below 20 SMA; MACD bearish crossover | D/E high (2.2x) |
-| **VAML** | 365.5 | -1.5 | 44 | 2 | Closed below 20 SMA; Volume spike on down day (-1.5%) | clean |
+| **HINDALCO** | 900.5 | -3.1 | 43 | 3 | Downtrend (below falling 50/200 SMA); Closed below 20 SMA; MACD bearish crossover | clean |
+| **ONGC** | 222.9 | -0.3 | 50 | 3 | Within 5% of 52w low; Closed below 20 SMA; MACD bearish crossover | clean |
+| **TMPV** | 259.0 | -2.8 | 39 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | ROE low (-2%) |
+| **TATAPOWER** | 328.0 | -3.4 | 33 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | D/E high (1.7x) |
+| **TATASTEEL** | 163.0 | -8.4 | 32 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-8.4%) | clean |
+| **VEDL** | 235.5 | -1.1 | 37 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | clean |
+| **AMBUJACEM** | 392.0 | -2.0 | 58 | 2 | Volume spike on down day (-2.0%); Bearish candle: bearish-engulfing | ROE low (4%) |
+| **APOLLOHOSP** | 9257.0 | +0.6 | 71 | 2 | RSI overbought (71); Bearish candle: shooting-star | clean |
+| **BOSCHLTD** | 48800.0 | -1.1 | 52 | 2 | Closed below 20 SMA; Bearish candle: bearish-engulfing | clean |
+| **ETERNAL** | 362.1 | -0.5 | 60 | 2 | MACD bearish crossover; Bearish candle: bearish-engulfing | PE high (683), ROE low (2%) |
 
 ## Bulk deals (latest)
 
@@ -69,12 +73,12 @@ title: Morning Market Report
 
 ## Headlines
 
-- [Tata Sons board meet postponed to November 30 after Noel raises concerns](https://www.thehindu.com/business/tata-sons-board-meet-postponed-to-november-30-after-noel-raises-concerns/article71734604.ece) — _Zerodha Pulse_
-- [Tata Sons Board Meeting Rescheduled To Nov. 30 After Noel Tata's Letter](https://www.ndtvprofit.com/business/tata-sons-board-meeting-rescheduled-to-nov-30-after-noel-tatas-letter-12366130#publisher=newsstand) — _Zerodha Pulse_
-- [Only BS-VI Vehicles In Delhi? Supreme Court's Big Remark Amid Pollution Crisis](https://www.ndtvprofit.com/india/only-bs-vi-vehicles-in-delhi-supreme-courts-big-remark-amid-pollution-crisis-12365976#publisher=newsstand) — _Zerodha Pulse_
-- [Sharjah Warriorz vs Desert Vipers Live Streaming: When And Where To Watch ILT20 Match?](https://www.ndtvprofit.com/sports/sharjah-warriorz-vs-desert-vipers-live-streaming-when-and-where-to-watch-ilt20-match-12363487#publisher=newsstand) — _Zerodha Pulse_
-- [Gulf Giants vs MI Emirates Live Streaming: When And Where To Watch ILT20 Match?](https://www.ndtvprofit.com/sports/gulf-giants-vs-mi-emirates-live-streaming-when-and-where-to-watch-ilt20-match-12363504#publisher=newsstand) — _Zerodha Pulse_
-- [Dubai Capitals vs Desert Vipers Live Streaming: When And Where To Watch ILT20 Match?](https://www.ndtvprofit.com/sports/dubai-capitals-vs-desert-vipers-live-streaming-when-and-where-to-watch-ilt20-match-12363541#publisher=newsstand) — _Zerodha Pulse_
+- [Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms) — _Zerodha Pulse_
+- [Is AI Giving Indian Employees Their Weekends Back? BCG Says They're Saving 15 Hours A Week](https://www.ndtvprofit.com/business/is-ai-giving-indian-employees-their-weekends-back-bcg-says-theyre-saving-15-hours-a-week-12371104#publisher=newsstand) — _Zerodha Pulse_
+- [Maharashtra FDA Cancels Inducare Pharma's Licence Again, 9 Drugs Found Substandard Or Spurious](https://www.ndtvprofit.com/india/maharashtra-fda-cancels-inducare-pharmas-licence-again-9-drugs-found-substandard-or-spurious-12371021#publisher=newsstand) — _Zerodha Pulse_
+- [Nasdaq Jumped 6.5% On Monday, Now Futures Are Down. Here's What Indian Investors Should Watch](https://www.ndtvprofit.com/markets/nasdaq-jumped-6-5-on-monday-now-futures-are-down-heres-what-indian-investors-should-watch-12371093#publisher=newsstand) — _Zerodha Pulse_
+- [How Bisleri Became India's Packaged Water Giant](https://www.ndtvprofit.com/business/how-bisleri-became-indias-packaged-water-giant-12370745#publisher=newsstand) — _Zerodha Pulse_
+- [Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG](https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

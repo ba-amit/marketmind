@@ -4,6 +4,7 @@ title: Archive
 
 # Report archive
 
+- [2026-11-25](archive/2026-11-25.html)
 - [2026-11-24](archive/2026-11-24.html)
 - [2026-11-23](archive/2026-11-23.html)
 - [2026-11-20](archive/2026-11-20.html)

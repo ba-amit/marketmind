@@ -2,23 +2,23 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Wednesday, 25 November 2026
+# Morning Market Report — Thursday, 26 November 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 25,819.2 | +1.85 |
-| NIFTY BANK | 63,703.2 | +1.79 |
-| NIFTY MIDCAP 100 | 61,584.8 | +0.30 |
-| NIFTY SMALLCAP 100 | 19,229.3 | -0.44 |
-| NIFTY AUTO | 28,821.5 | +1.16 |
-| NIFTY FMCG | 50,143.5 | +3.79 |
-| NIFTY IT | 32,207.5 | +1.12 |
-| NIFTY METAL | 11,578.5 | -2.04 |
-| NIFTY PHARMA | 28,961.9 | +2.38 |
-| NIFTY REALTY | 942.0 | +0.02 |
-| NIFTY ENERGY | 36,669.2 | +0.04 |
+| NIFTY 50 | 25,884.5 | +0.25 |
+| NIFTY BANK | 63,535.3 | -0.26 |
+| NIFTY MIDCAP 100 | 61,781.8 | +0.32 |
+| NIFTY SMALLCAP 100 | 19,372.2 | +0.74 |
+| NIFTY AUTO | 28,623.5 | -0.69 |
+| NIFTY FMCG | 49,673.6 | -0.94 |
+| NIFTY IT | 33,386.9 | +3.66 |
+| NIFTY METAL | 11,713.5 | +1.17 |
+| NIFTY PHARMA | 29,090.8 | +0.45 |
+| NIFTY REALTY | 972.9 | +3.27 |
+| NIFTY ENERGY | 36,880.3 | +0.58 |
 
 ## FII / DII flows (₹ crore)
 
@@ -29,32 +29,38 @@ title: Morning Market Report
 
 ## Pre-open movers
 
-**Gainers:** RMC (+15.5%), IIRM (+12.8%), SVLL (+11.6%), BALKRISHNA (+10.3%), SUNLOC (+10.3%), BONLON (+10.0%), ORTINGLOBE (+9.9%), KRITI (+9.0%)
+**Gainers:** UMESLTD (+15.4%), RRECL (+15.1%), ORTINGLOBE (+10.0%), CIFL (+9.7%), SHANTI (+9.7%), RMC (+9.2%), KEEPLEARN (+9.0%), ENRIN (+8.8%)
 
-**Losers:** HRYNSHP (-19.0%), RRECL (-17.1%), APLAPOLLO (-10.0%), IEML-RE1 (-9.8%), SAICAPI (-9.5%), GLOBALE (-9.3%), SGMART (-8.5%), HPIL (-7.8%)
+**Losers:** VPFL (-9.9%), SGMART (-9.7%), IEML-RE1 (-9.4%), SGFIN (-7.0%), SPECTRUM (-5.0%), UTSSAV (-5.0%), VIJIFIN (-5.0%), SAHASRA (-5.0%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **HCLTECH** | 1364.3 | +1.5 | 50 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 50) | clean |
-| **TCS** | 2460.0 | +3.5 | 57 | 2 | Closed back above 20 SMA; Volume spike on up day (+3.5%) | clean |
-| **TITAN** | 4680.0 | +1.3 | 49 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 49) | D/E high (2.2x) |
+| **ZYDUSLIFE** | 1236.0 | +3.0 | 64 | 4 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Closed back above 20 SMA; MACD bullish crossover | clean |
+| **DRREDDY** | 1398.0 | +1.3 | 68 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Golden cross (50/200 SMA) | ROE low (7%) |
+| **ETERNAL** | 371.7 | +2.7 | 65 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; MACD bullish crossover | PE high (694), ROE low (2%) |
+| **HAL** | 4936.0 | +3.3 | 56 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Closed back above 20 SMA | clean |
+| **JSWSTEEL** | 1302.5 | -0.7 | 50 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Pullback in uptrend (RSI 50) | clean |
+| **TECHM** | 1801.2 | +1.3 | 61 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Closed back above 20 SMA | clean |
+| **BSE** | 3775.2 | +0.5 | 59 | 2 | Uptrend (above rising 50/200 SMA); Golden cross (50/200 SMA) | clean |
+| **BAJAJ-AUTO** | 10868.0 | +2.1 | 56 | 2 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA | clean |
+| **GRASIM** | 3162.0 | +2.8 | 59 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | ROE low (6%) |
+| **TITAN** | 4686.6 | +0.1 | 50 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 50) | D/E high (2.2x) |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **HINDALCO** | 900.5 | -3.1 | 43 | 3 | Downtrend (below falling 50/200 SMA); Closed below 20 SMA; MACD bearish crossover | clean |
-| **ONGC** | 222.9 | -0.3 | 50 | 3 | Within 5% of 52w low; Closed below 20 SMA; MACD bearish crossover | clean |
-| **TMPV** | 259.0 | -2.8 | 39 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | ROE low (-2%) |
-| **TATAPOWER** | 328.0 | -3.4 | 33 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | D/E high (1.7x) |
-| **TATASTEEL** | 163.0 | -8.4 | 32 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-8.4%) | clean |
-| **VEDL** | 235.5 | -1.1 | 37 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: bearish-engulfing | clean |
-| **AMBUJACEM** | 392.0 | -2.0 | 58 | 2 | Volume spike on down day (-2.0%); Bearish candle: bearish-engulfing | ROE low (4%) |
-| **APOLLOHOSP** | 9257.0 | +0.6 | 71 | 2 | RSI overbought (71); Bearish candle: shooting-star | PE high (60) |
-| **BOSCHLTD** | 48800.0 | -1.1 | 52 | 2 | Closed below 20 SMA; Bearish candle: bearish-engulfing | clean |
-| **ETERNAL** | 362.1 | -0.5 | 60 | 2 | MACD bearish crossover; Bearish candle: bearish-engulfing | PE high (701), ROE low (2%) |
+| **ADANIGREEN** | 1364.5 | -1.9 | 50 | 3 | Closed below 20 SMA; MACD bearish crossover; Volume spike on down day (-1.9%) | PE high (123), D/E high (3.8x), ROE low (7%) |
+| **TATASTEEL** | 159.3 | -2.3 | 29 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-2.3%) | clean |
+| **APOLLOHOSP** | 9300.0 | +0.5 | 72 | 2 | RSI overbought (72); Bearish candle: hanging-man | clean |
+| **DLF** | 795.0 | +0.1 | 76 | 2 | RSI overbought (76); Bearish candle: hanging-man | clean |
+| **JINDALSTEL** | 1105.0 | -2.3 | 48 | 2 | Closed below 20 SMA; Bearish candle: bearish-engulfing | ROE low (5%) |
+| **JIOFIN** | 222.9 | +1.4 | 51 | 2 | MACD bearish crossover; Bearish candle: shooting-star | PE high (86), ROE low (1%) |
+| **MAXHEALTH** | 1076.3 | -1.2 | 75 | 2 | RSI overbought (75); Bearish candle: bearish-engulfing | PE high (77) |
+| **POLYCAB** | 7379.0 | -0.7 | 37 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: hanging-man | clean |
+| **VAML** | 351.1 | -3.0 | 38 | 2 | Within 5% of 52w low; MACD bearish crossover | clean |
 
 ## Bulk deals (latest)
 
@@ -73,12 +79,12 @@ title: Morning Market Report
 
 ## Headlines
 
-- [US Treasury gains lift India bonds ahead of RBI meet](https://economictimes.indiatimes.com/markets/bonds/us-treasury-gains-lift-india-bonds-ahead-of-rbi-meet/articleshow/136161527.cms) — _Zerodha Pulse_
-- [Mahabaleshwar Traffic Video Goes Viral As Tourists Complain Of Hours-Long Jams](https://www.ndtvprofit.com/trending/mahabaleshwar-traffic-video-goes-viral-as-tourists-complain-of-hours-long-jams-12375607#publisher=newsstand) — _Zerodha Pulse_
-- [Auto PLI scheme disburses ₹4,385 crore in first eight months of FY27](https://www.business-standard.com/industry/auto/auto-pli-scheme-disburses-4-385-crore-in-first-eight-months-of-fy27-126112500966_1.html) — _Zerodha Pulse_
-- [PNB partners with Deutsche Bank to explore acquisition financing in India](https://www.business-standard.com/industry/banking/pnb-partners-with-deutsche-bank-to-explore-acquisition-financing-in-india-126112500965_1.html) — _Zerodha Pulse_
-- [Stock indices gain 1.85%, rupee surges to 8-month high aided by foreign inflows, low crude prices](https://www.thehindu.com/business/markets/sensex-jumps-1502-points-nifty-surges-to-25819-on-foreign-fund-inflows-lower-crude-oil/article71742244.ece) — _Zerodha Pulse_
-- [ONDC takes on quick commerce with NearU, bets on local stores for delivery](https://www.business-standard.com/technology/tech-news/ondc-takes-on-quick-commerce-with-nearu-bets-on-local-stores-for-delivery-126112500939_1.html) — _Zerodha Pulse_
+- [Maharashtra GST authorities issue ₹3.19 cr tax demand against GSK Pharma](https://www.business-standard.com/companies/news/maharashtra-gst-authorities-issue-3-19-cr-tax-demand-against-gsk-pharma-126112601060_1.html) — _Zerodha Pulse_
+- [Govt picks BSNL, MTNL assets worth ₹1,300 crore for monetisation](https://www.business-standard.com/economy/news/govt-picks-bsnl-mtnl-assets-worth-1-300-crore-for-monetisation-126112601034_1.html) — _Zerodha Pulse_
+- [Infra projects see cost overrun of ₹3.28 trillion in October: MoSPI](https://www.business-standard.com/india-news/infra-projects-see-cost-overrun-of-3-28-trillion-in-october-mospi-126112600997_1.html) — _Zerodha Pulse_
+- [Coal gasification scheme attracts just two bids in its third round](https://www.business-standard.com/industry/news/coal-gasification-scheme-attracts-just-two-bids-in-its-third-round-126112601017_1.html) — _Zerodha Pulse_
+- [Ultraviolette breaks ground on ₹779 crore electric vehicle plant in Hosur](https://www.business-standard.com/companies/news/ultraviolette-breaks-ground-on-779-crore-electric-vehicle-plant-in-hosur-126112601000_1.html) — _Zerodha Pulse_
+- [Supreme Court directs tightening of front-of-package nutrition labelling](https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_

@@ -2,89 +2,82 @@
 title: Morning Market Report
 ---
 
-# Morning Market Report — Thursday, 26 November 2026
+# Morning Market Report — Friday, 27 November 2026
 
 ## Index snapshot (NSE, at run time)
 
 | Index | Level | Chg% |
 |---|---:|---:|
-| NIFTY 50 | 25,884.5 | +0.25 |
-| NIFTY BANK | 63,535.3 | -0.26 |
-| NIFTY MIDCAP 100 | 61,781.8 | +0.32 |
-| NIFTY SMALLCAP 100 | 19,372.2 | +0.74 |
-| NIFTY AUTO | 28,623.5 | -0.69 |
-| NIFTY FMCG | 49,673.6 | -0.94 |
-| NIFTY IT | 33,386.9 | +3.66 |
-| NIFTY METAL | 11,713.5 | +1.17 |
-| NIFTY PHARMA | 29,090.8 | +0.45 |
-| NIFTY REALTY | 972.9 | +3.27 |
-| NIFTY ENERGY | 36,880.3 | +0.58 |
+| NIFTY 50 | 25,607.2 | -1.07 |
+| NIFTY BANK | 63,040.9 | -0.78 |
+| NIFTY MIDCAP 100 | 61,846.3 | +0.10 |
+| NIFTY SMALLCAP 100 | 19,481.3 | +0.56 |
+| NIFTY AUTO | 28,199.9 | -1.48 |
+| NIFTY FMCG | 49,212.4 | -0.93 |
+| NIFTY IT | 32,758.1 | -1.88 |
+| NIFTY METAL | 11,878.0 | +1.40 |
+| NIFTY PHARMA | 28,973.5 | -0.40 |
+| NIFTY REALTY | 959.0 | -1.43 |
+| NIFTY ENERGY | 36,935.0 | +0.15 |
 
 ## FII / DII flows (₹ crore)
 
 | Category | Buy | Sell | Net |
 |---|---:|---:|---:|
-| DII | 22379.82 | 18361.1 | **4018.72** |
-| FII/FPI | 24309.87 | 19830.79 | **4479.08** |
+| DII | 17263.65 | 17820.07 | **-556.42** |
+| FII/FPI | 14259.45 | 12625.12 | **1634.33** |
 
 ## Pre-open movers
 
-**Gainers:** UMESLTD (+15.4%), RRECL (+15.1%), ORTINGLOBE (+10.0%), CIFL (+9.7%), SHANTI (+9.7%), RMC (+9.2%), KEEPLEARN (+9.0%), ENRIN (+8.8%)
+**Gainers:** BALKRISHNA (+10.1%), EVENTIONS (+9.9%), SURAJLTD (+8.6%), SGLRES (+8.1%), ALCODIS (+6.6%), SONAL (+6.2%), TECILCHEM (+5.7%), SANWARIA (+5.6%)
 
-**Losers:** VPFL (-9.9%), SGMART (-9.7%), IEML-RE1 (-9.4%), SGFIN (-7.0%), SPECTRUM (-5.0%), UTSSAV (-5.0%), VIJIFIN (-5.0%), SAHASRA (-5.0%)
+**Losers:** VPFL (-9.9%), ALFREDHE (-6.0%), PANSARI (-5.6%), MODTHREAD (-5.5%), MOREPENLAB (-5.0%), NIMBSPROJ (-5.0%), BOSS (-4.9%), CREATIVEYE (-4.9%)
 
 ## Buy signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **ZYDUSLIFE** | 1236.0 | +3.0 | 64 | 4 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Closed back above 20 SMA; MACD bullish crossover | clean |
-| **DRREDDY** | 1398.0 | +1.3 | 68 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Golden cross (50/200 SMA) | ROE low (7%) |
-| **ETERNAL** | 371.7 | +2.7 | 65 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; MACD bullish crossover | PE high (694), ROE low (2%) |
-| **HAL** | 4936.0 | +3.3 | 56 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Closed back above 20 SMA | clean |
-| **JSWSTEEL** | 1302.5 | -0.7 | 50 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Pullback in uptrend (RSI 50) | clean |
-| **TECHM** | 1801.2 | +1.3 | 61 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Closed back above 20 SMA | clean |
-| **BSE** | 3775.2 | +0.5 | 59 | 2 | Uptrend (above rising 50/200 SMA); Golden cross (50/200 SMA) | clean |
-| **BAJAJ-AUTO** | 10868.0 | +2.1 | 56 | 2 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA | clean |
-| **GRASIM** | 3162.0 | +2.8 | 59 | 2 | Uptrend (above rising 50/200 SMA); MACD bullish crossover | ROE low (6%) |
-| **TITAN** | 4686.6 | +0.1 | 50 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 50) | D/E high (2.2x) |
+| **BAJAJHLDNG** | 11933.0 | +4.4 | 65 | 4 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Volume spike on up day (+4.4%); Bullish candle: bullish-engulfing | clean |
+| **EICHERMOT** | 8180.0 | -1.9 | 67 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Golden cross (50/200 SMA) | clean |
+| **JSWSTEEL** | 1303.0 | +0.0 | 50 | 3 | Uptrend (above rising 50/200 SMA); Within 5% of 52w high; Pullback in uptrend (RSI 50) | clean |
+| **ADANIGREEN** | 1348.8 | -1.2 | 47 | 2 | Uptrend (above rising 50/200 SMA); Pullback in uptrend (RSI 47) | PE high (121), D/E high (3.8x), ROE low (7%) |
+| **BSE** | 3990.4 | +5.7 | 70 | 2 | Uptrend (above rising 50/200 SMA); Golden cross (50/200 SMA) | clean |
+| **HCLTECH** | 1468.6 | +6.4 | 67 | 2 | Uptrend (above rising 50/200 SMA); Closed back above 20 SMA | clean |
 
 ## Sell / caution signals
 
 | Stock | Close | Chg% | RSI | Score | Reasons | Fundamental flags |
 |---|---:|---:|---:|---:|---|---|
-| **ADANIGREEN** | 1364.5 | -1.9 | 50 | 3 | Closed below 20 SMA; MACD bearish crossover; Volume spike on down day (-1.9%) | PE high (123), D/E high (3.8x), ROE low (7%) |
-| **TATASTEEL** | 159.3 | -2.3 | 29 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Volume spike on down day (-2.3%) | clean |
-| **APOLLOHOSP** | 9300.0 | +0.5 | 72 | 2 | RSI overbought (72); Bearish candle: hanging-man | clean |
-| **DLF** | 795.0 | +0.1 | 76 | 2 | RSI overbought (76); Bearish candle: hanging-man | clean |
-| **JINDALSTEL** | 1105.0 | -2.3 | 48 | 2 | Closed below 20 SMA; Bearish candle: bearish-engulfing | ROE low (5%) |
-| **JIOFIN** | 222.9 | +1.4 | 51 | 2 | MACD bearish crossover; Bearish candle: shooting-star | PE high (86), ROE low (1%) |
-| **MAXHEALTH** | 1076.3 | -1.2 | 75 | 2 | RSI overbought (75); Bearish candle: bearish-engulfing | PE high (77) |
-| **POLYCAB** | 7379.0 | -0.7 | 37 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: hanging-man | clean |
-| **VAML** | 351.1 | -3.0 | 38 | 2 | Within 5% of 52w low; MACD bearish crossover | clean |
+| **TMPV** | 262.0 | -0.0 | 41 | 3 | Downtrend (below falling 50/200 SMA); Within 5% of 52w low; Bearish candle: hanging-man | ROE low (-2%) |
+| **ZYDUSLIFE** | 1194.2 | -3.4 | 51 | 3 | Closed below 20 SMA; MACD bearish crossover; Bearish candle: bearish-engulfing | clean |
+| **CUMMINSIND** | 4100.9 | +0.8 | 40 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: shooting-star | clean |
+| **ETERNAL** | 367.7 | -1.1 | 62 | 2 | MACD bearish crossover; Bearish candle: bearish-engulfing | PE high (685), ROE low (2%) |
+| **HINDZINC** | 526.6 | +1.3 | 44 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: shooting-star | clean |
+| **POLYCAB** | 7350.0 | -0.4 | 37 | 2 | Downtrend (below falling 50/200 SMA); Bearish candle: shooting-star | clean |
 
 ## Bulk deals (latest)
 
 | Stock | Client | Side | Qty | Price |
 |---|---|---|---:|---:|
-| AGIIL | THAKKAR NILESHKUMAR FARSHURAM HUF | BUY | 1600000 | 303.32 |
-| AGIIL | ARIHANT CAPITAL MARKETS LIMITED | BUY | 1049964 | 305.03 |
-| APLAPOLLO | GRAVITON RESEARCH CAPITAL LLP | BUY | 3476928 | 1469.25 |
-| APSISAERO | BASAN EQUITY BROKING LIMITED | BUY | 1400 | 506.66 |
-| ARIS | MICROCURVES TRADING PRIVATE LIMITED | BUY | 455390 | 188.64 |
-| ARIS | HRTI PRIVATE LIMITED | BUY | 510718 | 183.7 |
-| ARIS | ALPHAGREP SECURITIES PRIVATE LIMITED | BUY | 620095 | 186.52 |
-| ARIS | QE SECURITIES LLP | BUY | 789656 | 183.43 |
-| ARIS | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 477628 | 186.13 |
-| BLSPOLY | HRTI PRIVATE LIMITED | BUY | 302309 | 262.21 |
+| AGIIL | THAKKAR NILESHKUMAR FARSHURAM HUF | BUY | 1150000 | 307.77 |
+| AKG | SHRI MUKTA SHARES | BUY | 167495 | 8.3 |
+| BCPL | ORION STOCKS LTD | BUY | 15453 | 65.34 |
+| BCPL | IRAGE BROKING SERVICES LLP | BUY | 86031 | 65.35 |
+| BRACEPORT | CORE INC | BUY | 198400 | 118.76 |
+| DHAMPURSUG | JUNOMONETA FINSOL PRIVATE LIMITED | BUY | 494034 | 188.26 |
+| DHAMPURSUG | CLT RESEARCH TECH PRIVATE LTD | BUY | 366668 | 190.39 |
+| DHAMPURSUG | PLUTUS WEALTH MANAGEMENT LLP | BUY | 402925 | 188.42 |
+| DHAMPURSUG | MICROCURVES TRADING PRIVATE LIMITED | BUY | 401661 | 189.06 |
+| DHAMPURSUG | ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED | BUY | 343944 | 191.81 |
 
 ## Headlines
 
-- [Maharashtra GST authorities issue ₹3.19 cr tax demand against GSK Pharma](https://www.business-standard.com/companies/news/maharashtra-gst-authorities-issue-3-19-cr-tax-demand-against-gsk-pharma-126112601060_1.html) — _Zerodha Pulse_
-- [Govt picks BSNL, MTNL assets worth ₹1,300 crore for monetisation](https://www.business-standard.com/economy/news/govt-picks-bsnl-mtnl-assets-worth-1-300-crore-for-monetisation-126112601034_1.html) — _Zerodha Pulse_
-- [Infra projects see cost overrun of ₹3.28 trillion in October: MoSPI](https://www.business-standard.com/india-news/infra-projects-see-cost-overrun-of-3-28-trillion-in-october-mospi-126112600997_1.html) — _Zerodha Pulse_
-- [Coal gasification scheme attracts just two bids in its third round](https://www.business-standard.com/industry/news/coal-gasification-scheme-attracts-just-two-bids-in-its-third-round-126112601017_1.html) — _Zerodha Pulse_
-- [Ultraviolette breaks ground on ₹779 crore electric vehicle plant in Hosur](https://www.business-standard.com/companies/news/ultraviolette-breaks-ground-on-779-crore-electric-vehicle-plant-in-hosur-126112601000_1.html) — _Zerodha Pulse_
-- [Supreme Court directs tightening of front-of-package nutrition labelling](https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece) — _Zerodha Pulse_
+- [India's forex reserves fall $4.44 billion to $700.90 billion on gold losses](https://www.business-standard.com/finance/news/india-s-forex-reserves-fall-4-44-billion-to-700-90-billion-on-gold-losses-126112700994_1.html) — _Zerodha Pulse_
+- [RBI cuts CRR maintenance requirement for banks back to 90% from Dec 1](https://www.business-standard.com/finance/news/rbi-cuts-crr-maintenance-requirement-for-banks-back-to-90-from-dec-1-126112700971_1.html) — _Zerodha Pulse_
+- [TVS Motor forays into cargo tricycles with Armado, eyes overseas markets](https://www.business-standard.com/companies/news/tvs-motor-forays-into-cargo-tricycles-with-armado-eyes-overseas-markets-126112700940_1.html) — _Zerodha Pulse_
+- [Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight](https://www.thehindu.com/business/Industry/volkswagen-drags-rivals-mercedes-bmw-into-12-billion-india-tax-fight/article71750544.ece) — _Zerodha Pulse_
+- [India bonds slump as oil spike adds to RBI hike bets](https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms) — _Zerodha Pulse_
+- [AI regulation must precede job losses and economic disruption, says PMI chief](https://www.thehindu.com/business/Industry/ai-regulation-must-precede-job-losses-and-economic-disruption-says-pmi-chief/article71747517.ece) — _Zerodha Pulse_
 - [Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher](https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html) — _Moneycontrol Market Reports_
 - [Sensex, Nifty gain for third day in a row; easing volatility to support bull trend](https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html) — _Moneycontrol Market Reports_
 - [Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years](https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html) — _Moneycontrol Market Reports_
